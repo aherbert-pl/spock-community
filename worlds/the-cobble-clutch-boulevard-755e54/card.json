@@ -1,0 +1,18 @@
+{
+  "uid": "755e54111ef5",
+  "slug": "the-cobble-clutch-boulevard-755e54",
+  "version": 1,
+  "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+  },
+  "spock": "0.5.1",
+  "title": "The Cobble & Clutch Boulevard",
+  "question": "Does high-margin exclusivity beat high-volume accessible pricing for shoe and bag boutiques on the same street?",
+  "line": "",
+  "size": 83238,
+  "cover": true,
+  "minds": 2,
+  "updated": "2026-11-05",
+  "versions": 1
+}
