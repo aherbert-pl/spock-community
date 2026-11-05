@@ -9,6 +9,7 @@ from __future__ import annotations
 import json
 import os
 import re
+import urllib.error
 import urllib.request
 from pathlib import Path
 
@@ -21,6 +22,34 @@ def gh(method: str, path: str, body: dict | None = None):
                                  headers={"Authorization": f"Bearer {TOKEN}", "Accept": "application/vnd.github+json"})
     with urllib.request.urlopen(req) as r:
         return json.loads(r.read() or b"null")
+
+
+def release() -> dict:
+    """The release that holds every world's file: downloading from it is what counts an open."""
+    try:
+        return gh("GET", f"/repos/{REPO}/releases/tags/worlds")
+    except urllib.error.HTTPError as e:
+        if e.code != 404:
+            raise
+        return gh("POST", f"/repos/{REPO}/releases", {"tag_name": "worlds", "name": "Worlds",
+                  "body": "The files Community serves. Each download is someone opening a world."})
+
+
+def assets(rel: dict) -> list[dict]:
+    out, page = [], 1
+    while True:
+        got = gh("GET", f"/repos/{REPO}/releases/{rel['id']}/assets?per_page=100&page={page}")
+        out += got
+        if len(got) < 100:
+            return out
+        page += 1
+
+
+def upload(rel: dict, name: str, data: bytes) -> dict:
+    req = urllib.request.Request(f"https://uploads.github.com/repos/{REPO}/releases/{rel['id']}/assets?name={name}", method="POST", data=data,
+                                 headers={"Authorization": f"Bearer {TOKEN}", "Content-Type": "application/zip", "Accept": "application/vnd.github+json"})
+    with urllib.request.urlopen(req) as r:
+        return json.loads(r.read())
 
 
 def issues() -> dict[str, dict]:
@@ -42,9 +71,16 @@ def main() -> None:
     except Exception:  # noqa: BLE001 — it is there already
         pass
     known = issues()
+    rel = release()
+    files = {a["name"]: a for a in assets(rel)}
     cards = []
     for f in sorted(Path("worlds").glob("*/card.json")):
         c = json.loads(f.read_text())
+        name = f"{c['slug']}-v{c.get('version', 1)}.spock"
+        if name not in files:  # a new world, or a new version: its file joins the release
+            files[name] = upload(rel, name, (f.parent / "world.spock").read_bytes())
+        c["download"] = files[name]["browser_download_url"]
+        c["opens"] = sum(a.get("download_count", 0) for n, a in files.items() if n.startswith(c["slug"] + "-v"))
         if c["slug"] not in known:
             i = gh("POST", f"/repos/{REPO}/issues", {"title": f"★ {c['title']}", "labels": ["world"],
                    "body": f"{c.get('question') or c.get('line') or ''}\n\nThis keeps the world's stars. Star it from SPOCK's Community shelf.\n\n<!-- slug: {c['slug']} -->"})
