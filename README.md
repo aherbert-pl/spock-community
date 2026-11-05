@@ -3,12 +3,12 @@
 Worlds people have made in [SPOCK](https://github.com/aherbert-pl/GetSpock) and shared. SPOCK shows them on its
 **Community** shelf (Home → *Community*): open one and it becomes a world of your own, with its history, to play and change.
 
-**Sharing one:** in SPOCK, the gear on your world's card → **Share to Community…**. SPOCK signs you in with GitHub
-once, then opens a pull request here for you. SPOCK's own checks run on it — it must load, run, and pass its own
-tests — and once it is merged it is on the shelf for everyone. Sharing it again later sends a new version of the same
-world.
+**Sharing and starring happen in SPOCK**, never by hand here:
 
-**Starring one:** the ★ on its card in SPOCK (a 👍 on its issue here).
+- **Share** — the gear on your world's card → **Share to Community…**. SPOCK signs you in with GitHub once and sends
+  the world for you. SPOCK's own checks open and run it — it must load, run, and pass its own tests — and once it is
+  accepted it is on the shelf for everyone. Sharing it again sends a new version of the same world.
+- **Star** — the ★ on its card on the Community shelf.
 
 Each world is a folder in [`worlds/`](worlds): `world.spock` (the world, its versions and the parts it needs — never
 its maker's conversation with the builder or their runs), `card.json` (what its card says) and `cover.jpg`.

@@ -47,7 +47,7 @@ def main() -> None:
         c = json.loads(f.read_text())
         if c["slug"] not in known:
             i = gh("POST", f"/repos/{REPO}/issues", {"title": f"★ {c['title']}", "labels": ["world"],
-                   "body": f"{c.get('question') or c.get('line') or ''}\n\nGive this a 👍 to star it — or star it from SPOCK's Community shelf.\n\n<!-- slug: {c['slug']} -->"})
+                   "body": f"{c.get('question') or c.get('line') or ''}\n\nThis keeps the world's stars. Star it from SPOCK's Community shelf.\n\n<!-- slug: {c['slug']} -->"})
             known[c["slug"]] = {"issue": i["number"], "stars": 0}
         cards.append({**c, **known[c["slug"]]})
     cards.sort(key=lambda c: (c.get("updated", ""), c["title"]), reverse=True)

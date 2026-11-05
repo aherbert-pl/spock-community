@@ -11,6 +11,16 @@ jobs:
   check:
     runs-on: ubuntu-latest
     steps:
+      - name: Shared from SPOCK
+        env:
+          BODY: ${{ github.event.pull_request.body }}
+          AUTHOR: ${{ github.event.pull_request.user.login }}
+          OWNER: ${{ github.repository_owner }}
+        run: |
+          # worlds come to the shelf through SPOCK's Share, which says so; the shelf's owner may change it by hand
+          if [ "$AUTHOR" != "$OWNER" ] && ! printf '%s' "$BODY" | grep -q "<!-- shared-from-spock -->"; then
+            echo "::error::Share worlds from SPOCK (a world's card → Share to Community…), not by hand here."; exit 1
+          fi
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
