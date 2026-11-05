@@ -1,0 +1,18 @@
+{
+  "uid": "03f97f2dffd5",
+  "slug": "a-small-solar-system-03f97f",
+  "version": 1,
+  "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+  },
+  "spock": "0.5.1",
+  "title": "A small solar system",
+  "question": "How do the star's mass and the comet's speed decide whether an orbit stays closed, stretches out or escapes?",
+  "line": "The Sun, Mercury, Venus, Earth and Mars, plus the comet Encke, moved only by Newton's gravity. Masses, distances and speeds come from NASA's planetary fact sheet and the JPL Small-Body Database. Every",
+  "size": 21443,
+  "cover": true,
+  "minds": 0,
+  "updated": "2026-11-05",
+  "versions": 2
+}

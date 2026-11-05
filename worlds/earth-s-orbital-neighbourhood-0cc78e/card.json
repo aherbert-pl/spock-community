@@ -1,0 +1,18 @@
+{
+  "uid": "0cc78ee99f7e",
+  "slug": "earth-s-orbital-neighbourhood-0cc78e",
+  "version": 1,
+  "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+  },
+  "spock": "0.5.1",
+  "title": "Earth's orbital neighbourhood",
+  "question": "Why do geostationary satellites hang still over one place while the ISS and the communications swarm race round the Earth?",
+  "line": "A turning Earth with three kinds of satellite, all under Newton's gravity and real values (GM = 3.986e14 m\u00b3/s\u00b2, 6371 km radius). A ring of 12 geostationary satellites (amber) sits 35,793 km up in the ",
+  "size": 272081,
+  "cover": true,
+  "minds": 0,
+  "updated": "2026-11-05",
+  "versions": 6
+}

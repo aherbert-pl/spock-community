@@ -1,0 +1,18 @@
+{
+  "uid": "32c3911f5e2a",
+  "slug": "meadow-ecosystem-rabbits-foxes-flash-3-8-32c391",
+  "version": 1,
+  "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+  },
+  "spock": "0.5.1",
+  "title": "Meadow Ecosystem: Rabbits & Foxes - Flash 3.8",
+  "question": "Do rabbit and fox populations settle into sustainable cyclical balance, or does boom-and-bust lead to extinction?",
+  "line": "A vibrant meadow ecosystem in three trophic levels: clover and grass regrow across rolling hills, agile rabbits graze and breed when well-fed, and amber foxes stalk rabbits to survive. If rabbits over",
+  "size": 53484,
+  "cover": true,
+  "minds": 0,
+  "updated": "2026-11-05",
+  "versions": 3
+}

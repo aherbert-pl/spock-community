@@ -1,0 +1,18 @@
+{
+  "uid": "d584715d14c1",
+  "slug": "a-tennis-match-d58471",
+  "version": 1,
+  "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+  },
+  "spock": "0.5.1",
+  "title": "A tennis match",
+  "question": "Does hitting harder and nearer the lines win more points, or does it just lose them to errors?",
+  "line": "A singles match under floodlights on a court of real ITF size. The ball is a 57 g sphere that flies under gravity, air drag and topspin lift (the Magnus effect), and bounces with the energy loss of a ",
+  "size": 61499,
+  "cover": true,
+  "minds": 1,
+  "updated": "2026-11-05",
+  "versions": 2
+}

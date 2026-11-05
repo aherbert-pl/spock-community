@@ -1,0 +1,18 @@
+{
+  "uid": "8fa020a1dd88",
+  "slug": "two-drivers-learning-a-circuit-8fa020",
+  "version": 1,
+  "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+  },
+  "spock": "0.5.1",
+  "title": "Two drivers learning a circuit",
+  "question": "Can a driver that only thinks between laps learn to lap faster without throwing the car off the track?",
+  "line": "A fair race between two minds. Two identical cars (same tyres, same engine, same starting settings) start side by side on a closed circuit at night. Teal is driven by Claude Opus and Amber by Gemini F",
+  "size": 42227,
+  "cover": true,
+  "minds": 2,
+  "updated": "2026-11-05",
+  "versions": 2
+}

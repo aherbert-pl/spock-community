@@ -1,0 +1,18 @@
+{
+  "uid": "635aeb7da162",
+  "slug": "a-garden-at-dusk-635aeb",
+  "version": 1,
+  "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+  },
+  "spock": "0.5.1",
+  "title": "A garden at dusk",
+  "question": "Lantern lit, how many fireflies can you gather around you?",
+  "line": "A walled garden as the light goes, with fireflies drifting between the trees. Step inside the walker and wander. Light your lantern and the fireflies gather to you; put it out and they scatter back to",
+  "size": 28732,
+  "cover": true,
+  "minds": 0,
+  "updated": "2026-11-05",
+  "versions": 0
+}

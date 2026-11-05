@@ -1,0 +1,18 @@
+{
+  "uid": "6a14dc27c71d",
+  "slug": "a-heavy-ball-on-a-trampoline-6a14dc",
+  "version": 1,
+  "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+  },
+  "spock": "0.5.1",
+  "title": "A heavy ball on a trampoline",
+  "question": "How deep does the mat dip under a heavy ball, and where does a ball that comes in at an angle bounce to?",
+  "line": "A 20 kg ball comes in on a slant toward a 4 m \u00d7 4 m square trampoline. The mat is a 25 \u00d7 25 grid: 23 \u00d7 23 knots, each joined to its neighbours by a springy join that only pulls, and an outer ring of f",
+  "size": 41302,
+  "cover": true,
+  "minds": 0,
+  "updated": "2026-11-05",
+  "versions": 3
+}

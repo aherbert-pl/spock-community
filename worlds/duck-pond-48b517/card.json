@@ -1,0 +1,18 @@
+{
+  "uid": "48b517688c75",
+  "slug": "duck-pond-48b517",
+  "version": 1,
+  "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+  },
+  "spock": "0.5.1",
+  "title": "Duck pond",
+  "question": "When you throw bread, does it get shared out or does a lucky few eat it all?",
+  "line": "A round pond at dusk with twelve mallards. With no bread on the water they drift about. When bread lands, each duck paddles for the nearest piece it can see. Hungry ducks paddle harder than full ones,",
+  "size": 18451,
+  "cover": true,
+  "minds": 0,
+  "updated": "2026-11-05",
+  "versions": 1
+}

@@ -1,0 +1,18 @@
+{
+  "uid": "2a37b1ff0eff",
+  "slug": "warm-water-vs-cold-water-which-freezes-first-2a37b1",
+  "version": 1,
+  "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+  },
+  "spock": "0.5.1",
+  "title": "Warm water vs cold water: which freezes first?",
+  "question": "Can warm water freeze before cold water, and which effects would make it happen?",
+  "line": "Two identical 200 g cups of water go into a freezer, one warm (amber) and one cold (teal). Each cup loses heat to the cold air (Newton's law of cooling). It also evaporates, which takes away both heat",
+  "size": 44419,
+  "cover": true,
+  "minds": 0,
+  "updated": "2026-11-05",
+  "versions": 2
+}

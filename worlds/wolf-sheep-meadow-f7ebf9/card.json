@@ -1,0 +1,18 @@
+{
+  "uid": "f7ebf9fe871d",
+  "slug": "wolf-sheep-meadow-f7ebf9",
+  "version": 1,
+  "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+  },
+  "spock": "0.5.1",
+  "title": "Wolf\u2013sheep meadow",
+  "question": "Can wolves and sheep live together on one meadow, or does one of them always crash?",
+  "line": "A 200 m meadow of grass that is grazed down and grows back. Sheep wander, move towards greener grass when hungry, eat, and have lambs when well fed. Wolves wander, chase the nearest sheep they can see",
+  "size": 81263,
+  "cover": true,
+  "minds": 0,
+  "updated": "2026-11-05",
+  "versions": 6
+}

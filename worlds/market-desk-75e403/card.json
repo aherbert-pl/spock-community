@@ -1,0 +1,18 @@
+{
+  "uid": "75e4039d76b6",
+  "slug": "market-desk-75e403",
+  "version": 1,
+  "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+  },
+  "spock": "0.5.1",
+  "title": "Market Desk",
+  "question": "Can a desk of AI minds spot the moves that matter and explain them correctly, without making up stories about noise?",
+  "line": "A simulated trading day (6.5 hours) for twelve fictional companies. Prices wander. Now and then something real happens to a company (earnings, a product, a lawsuit, a CEO leaving): a headline is publi",
+  "size": 49329,
+  "cover": true,
+  "minds": 3,
+  "updated": "2026-11-05",
+  "versions": 4
+}

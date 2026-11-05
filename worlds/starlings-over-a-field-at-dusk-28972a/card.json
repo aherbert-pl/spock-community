@@ -1,0 +1,18 @@
+{
+  "uid": "28972aab00a3",
+  "slug": "starlings-over-a-field-at-dusk-28972a",
+  "version": 1,
+  "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+  },
+  "spock": "0.5.1",
+  "title": "Starlings over a field at dusk",
+  "question": "How does the flock go from a murmuration to a silent roost as the light fails, and how fast does it settle?",
+  "line": "Eight hundred starlings wheel over an open field as the light fails. Each bird watches only its seven nearest neighbours. It beats its wings hard when it climbs, steadily when it flies level, and fold",
+  "size": 39291,
+  "cover": true,
+  "minds": 0,
+  "updated": "2026-11-05",
+  "versions": 1
+}

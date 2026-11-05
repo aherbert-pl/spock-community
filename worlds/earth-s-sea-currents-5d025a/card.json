@@ -1,0 +1,18 @@
+{
+  "uid": "5d025aea7fd2",
+  "slug": "earth-s-sea-currents-5d025a",
+  "version": 1,
+  "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+  },
+  "spock": "0.5.1",
+  "title": "Earth's sea currents",
+  "question": "Where does floating debris end up, and how long does it take to get there?",
+  "line": "Two thousand floating drifters, like Argo floats or lost rubber ducks, are scattered over the oceans and carried by an idealised model of Earth's wind-driven surface currents. The trade winds drive th",
+  "size": 580850,
+  "cover": true,
+  "minds": 0,
+  "updated": "2026-11-05",
+  "versions": 5
+}

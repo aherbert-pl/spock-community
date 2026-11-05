@@ -1,0 +1,18 @@
+{
+  "uid": "95edfc016b41",
+  "slug": "photon-double-slit-experiment-95edfc",
+  "version": 1,
+  "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+  },
+  "spock": "0.5.1",
+  "title": "Photon double-slit experiment",
+  "question": "How do single photons arriving one at a time build an interference pattern, and why does knowing which slit they used erase it?",
+  "line": "A faint red laser sends photons at two narrow slits. Each photon lands as a single dot on the screen, and no single dot shows a pattern. As thousands build up, bright and dark fringes appear, exactly ",
+  "size": 64080,
+  "cover": true,
+  "minds": 0,
+  "updated": "2026-11-05",
+  "versions": 2
+}

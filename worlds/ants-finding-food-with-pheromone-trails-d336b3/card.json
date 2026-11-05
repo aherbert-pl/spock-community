@@ -1,0 +1,18 @@
+{
+  "uid": "d336b31b9af4",
+  "slug": "ants-finding-food-with-pheromone-trails-d336b3",
+  "version": 1,
+  "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+  },
+  "spock": "0.5.1",
+  "title": "Ants finding food with pheromone trails",
+  "question": "How does the rate at which pheromone evaporates change how quickly the colony brings food home?",
+  "line": "A colony of 150 ants on a patch of ground, with the nest in the middle and three food piles at different distances (near, middle, far). Ants wander until one stumbles on food. Then it carries a crumb ",
+  "size": 51617,
+  "cover": true,
+  "minds": 0,
+  "updated": "2026-11-05",
+  "versions": 9
+}

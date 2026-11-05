@@ -1,0 +1,18 @@
+{
+  "uid": "565d785b6d49",
+  "slug": "three-bodies-one-butterfly-565d78",
+  "version": 1,
+  "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+  },
+  "spock": "0.5.1",
+  "title": "Three bodies, one butterfly",
+  "question": "How fast does a tiny difference in where the stars start grow until the future is unpredictable?",
+  "line": "Three stars of 3, 4 and 5 suns start at rest on the corners of a 3-4-5 triangle measured in AU (Burrau's 'Pythagorean' problem), here lifted out of the flat plane: the stars start +1, +0.5 and \u22121 AU a",
+  "size": 24389,
+  "cover": true,
+  "minds": 0,
+  "updated": "2026-11-05",
+  "versions": 3
+}

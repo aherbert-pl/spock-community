@@ -1,0 +1,18 @@
+{
+  "uid": "220c287925f8",
+  "slug": "boarding-a-plane-220c28",
+  "version": 1,
+  "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+  },
+  "spock": "0.5.1",
+  "title": "Boarding a plane",
+  "question": "Which boarding order gets a full plane seated fastest, and why?",
+  "line": "A 180-seat single-aisle jet (A320-style: 30 rows of 3+3 seats, 79 cm pitch) boards through its front door. Passengers wait in the gate's rope line, walk down the jetway and the single aisle, and nobod",
+  "size": 73836,
+  "cover": true,
+  "minds": 0,
+  "updated": "2026-11-05",
+  "versions": 6
+}

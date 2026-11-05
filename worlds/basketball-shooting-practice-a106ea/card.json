@@ -1,0 +1,18 @@
+{
+  "uid": "a106eaf060b5",
+  "slug": "basketball-shooting-practice-a106ea",
+  "version": 1,
+  "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+  },
+  "spock": "0.5.1",
+  "title": "Basketball Shooting Practice",
+  "question": "Can a thinking player learn how launch speed and angle depend on distance so they sink shots from anywhere on the court?",
+  "line": "A basketball player moves around a regulation half-court taking jump shots from free-throw range out to the three-point line. Every shot flies under gravity and air drag and bounces off the 3.05 m rim",
+  "size": 90647,
+  "cover": true,
+  "minds": 1,
+  "updated": "2026-11-05",
+  "versions": 5
+}

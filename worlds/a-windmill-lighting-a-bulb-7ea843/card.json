@@ -1,0 +1,18 @@
+{
+  "uid": "7ea84333eb45",
+  "slug": "a-windmill-lighting-a-bulb-7ea843",
+  "version": 1,
+  "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+  },
+  "spock": "0.5.1",
+  "title": "A windmill lighting a bulb",
+  "question": "How steady is the light when the wind gusts, and how much steadier does a small battery make it?",
+  "line": "A small wind turbine (1.5 m across) on a hillside drives a permanent-magnet generator wired to a 12 V, 60 W filament bulb. The wind gusts and drops at random. The rotor's inertia smooths out quick gus",
+  "size": 50494,
+  "cover": true,
+  "minds": 0,
+  "updated": "2026-11-05",
+  "versions": 3
+}

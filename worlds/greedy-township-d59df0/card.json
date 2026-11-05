@@ -1,0 +1,18 @@
+{
+  "uid": "d59df095efe7",
+  "slug": "greedy-township-d59df0",
+  "version": 1,
+  "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+  },
+  "spock": "0.5.1",
+  "title": "Greedy Township",
+  "question": "Does greed pay off for the greedy, and can the village organise itself so that everyone does better?",
+  "line": "Sixty villagers live in four quarters of a township: farmers (teal), woodcutters (amber), weavers (violet) and toolmakers (rose). Each person makes one good but needs all four, and there is no money, ",
+  "size": 92668,
+  "cover": true,
+  "minds": 3,
+  "updated": "2026-11-05",
+  "versions": 8
+}

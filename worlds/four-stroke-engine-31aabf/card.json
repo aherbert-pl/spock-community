@@ -1,0 +1,18 @@
+{
+  "uid": "31aabf7cc872",
+  "slug": "four-stroke-engine-31aabf",
+  "version": 1,
+  "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+  },
+  "spock": "0.5.1",
+  "title": "Four-stroke engine",
+  "question": "How do throttle, load and spark timing set an engine's speed, torque and power?",
+  "line": "A 2.0 L four-cylinder petrol engine in cutaway (86 mm bore and stroke, 145 mm rods, 10:1 compression). Each piston rides a real slider-crank linkage. The gas in each cylinder is drawn in at manifold p",
+  "size": 26144,
+  "cover": true,
+  "minds": 0,
+  "updated": "2026-11-05",
+  "versions": 1
+}

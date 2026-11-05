@@ -1,0 +1,18 @@
+{
+  "uid": "08d62b484eb4",
+  "slug": "walk-or-run-in-the-rain-08d62b",
+  "version": 1,
+  "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+  },
+  "spock": "0.5.1",
+  "title": "Walk or run in the rain?",
+  "question": "Over the same distance, does running keep you drier than walking \u2014 and does a tailwind change the answer?",
+  "line": "Three people cross the same 100 m street in steady rain: the walker (1.4 m/s), the runner (5 m/s) and you (set your own speed). Rain reaches you two ways. The TOP of you (head and shoulders, 0.15 m\u00b2) ",
+  "size": 49011,
+  "cover": true,
+  "minds": 0,
+  "updated": "2026-11-05",
+  "versions": 3
+}

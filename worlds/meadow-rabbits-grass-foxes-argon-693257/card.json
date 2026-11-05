@@ -1,0 +1,18 @@
+{
+  "uid": "69325747ea70",
+  "slug": "meadow-rabbits-grass-foxes-argon-693257",
+  "version": 1,
+  "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+  },
+  "spock": "0.5.1",
+  "title": "Meadow: Rabbits, Grass & Foxes - Argon",
+  "question": "Do rabbits and foxes settle into a steady balance, or do their numbers rise and fall in waves?",
+  "line": "A rolling meadow where clumps of grass regrow in the sun, rabbits hop from patch to patch grazing and breeding when well fed, and foxes stalk the rabbits or starve when prey runs low. Watch how abunda",
+  "size": 56545,
+  "cover": true,
+  "minds": 0,
+  "updated": "2026-11-05",
+  "versions": 3
+}

@@ -1,0 +1,18 @@
+{
+  "uid": "0c79cb3604fd",
+  "slug": "meadow-predator-prey-ecosystem-flash-3-0c79cb",
+  "version": 1,
+  "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+  },
+  "spock": "0.5.1",
+  "title": "Meadow predator-prey ecosystem - Flash 3",
+  "question": "Do rabbit and fox populations balance into stable cycles or oscillate to extinction?",
+  "line": "A meadow where rabbits graze on regrowing grass and foxes hunt rabbits. Rabbits breed when energy is high, while foxes starve if they cannot catch prey. Watch the populations rise and fall in natural ",
+  "size": 43149,
+  "cover": true,
+  "minds": 0,
+  "updated": "2026-11-05",
+  "versions": 2
+}

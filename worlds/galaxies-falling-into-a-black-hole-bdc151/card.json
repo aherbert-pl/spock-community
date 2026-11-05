@@ -1,0 +1,18 @@
+{
+  "uid": "bdc15107b94c",
+  "slug": "galaxies-falling-into-a-black-hole-bdc151",
+  "version": 1,
+  "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+  },
+  "spock": "0.5.1",
+  "title": "Galaxies falling into a black hole",
+  "question": "How fast does a black hole tear galaxies apart and eat them, and which galaxy goes first?",
+  "line": "A giant black hole sits at the centre. Five small galaxies circle it on long, looping orbits. Each is a disc of stars held together by its own dark core. Near the black hole, its pull on a galaxy's ne",
+  "size": 48219,
+  "cover": true,
+  "minds": 0,
+  "updated": "2026-11-05",
+  "versions": 3
+}

@@ -1,0 +1,18 @@
+{
+  "uid": "5b2f2487ed4f",
+  "slug": "3d-cart-and-pole-5b2f24",
+  "version": 1,
+  "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+  },
+  "spock": "0.5.1",
+  "title": "3D cart and pole",
+  "question": "Can a mind write a pushing rule that keeps a 3D pole upright, and how little push does it need?",
+  "line": "A small cart on a concrete floor that can roll in any direction, with a pole balanced on a ball joint on top. Gravity tips the pole over, and the only way to keep it up is to push the cart under it. A",
+  "size": 46198,
+  "cover": true,
+  "minds": 1,
+  "updated": "2026-11-05",
+  "versions": 2
+}

@@ -1,0 +1,18 @@
+{
+  "uid": "e5fcf2f28e69",
+  "slug": "forest-fire-e5fcf2",
+  "version": 1,
+  "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+  },
+  "spock": "0.5.1",
+  "title": "Forest fire",
+  "question": "How dense does a forest have to be before one spark burns the whole thing?",
+  "line": "A 2 km \u00d7 2 km forest seen from above, split into 10 m patches. Each patch is bare ground (dark), a tree (teal), burning (amber) or ash (violet-grey). A spark starts a fire in the west. Fire jumps from",
+  "size": 103192,
+  "cover": true,
+  "minds": 0,
+  "updated": "2026-11-05",
+  "versions": 2
+}

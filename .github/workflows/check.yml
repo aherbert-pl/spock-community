@@ -1,0 +1,31 @@
+# Every world offered to the shelf is opened and run by SPOCK itself before anyone reviews it: it must load, run
+# without errors, pass its own tests, keep to the size limit and carry no conversation or runs. The result is on
+# the request's Checks tab and in its summary.
+name: check
+on:
+  pull_request:
+    paths: ["worlds/**"]
+permissions:
+  contents: read
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Which worlds changed
+        id: changed
+        run: |
+          files=$(git diff --name-only "origin/${{ github.base_ref }}...HEAD" -- 'worlds/*/world.spock' | tr '\n' ' ')
+          echo "files=$files" >> "$GITHUB_OUTPUT"
+          for f in $(git diff --name-only "origin/${{ github.base_ref }}...HEAD" -- worlds); do
+            case "$f" in worlds/*/world.spock|worlds/*/card.json|worlds/*/cover.jpg) ;; *) echo "::error::$f is not something a world on the shelf may hold"; exit 1;; esac
+          done
+      - name: Open and run them in SPOCK
+        if: steps.changed.outputs.files != ''
+        run: |
+          args=""; for f in ${{ steps.changed.outputs.files }}; do args="$args /w/$f"; done
+          docker run --rm --network none -v "$PWD:/w:ro" ghcr.io/aherbert-pl/getspock:latest \
+            python -m spock5.community check $args | tee report.md
+          cat report.md >> "$GITHUB_STEP_SUMMARY"

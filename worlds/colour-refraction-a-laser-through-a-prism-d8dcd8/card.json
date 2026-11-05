@@ -1,0 +1,18 @@
+{
+  "uid": "d8dcd80930a8",
+  "slug": "colour-refraction-a-laser-through-a-prism-d8dcd8",
+  "version": 1,
+  "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+  },
+  "spock": "0.5.1",
+  "title": "Colour refraction: a laser through a prism",
+  "question": "Why does a prism split white light, and how far apart do red and violet end up for different glasses and beam angles?",
+  "line": "An optics bench seen from above. A laser fires packets of light at a 60\u00b0 glass prism. Each packet has one wavelength (400\u2013700 nm for white light). It travels at c/n in glass and bends at every face by",
+  "size": 55435,
+  "cover": true,
+  "minds": 0,
+  "updated": "2026-11-05",
+  "versions": 2
+}

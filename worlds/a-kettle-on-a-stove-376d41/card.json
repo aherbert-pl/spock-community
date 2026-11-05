@@ -1,0 +1,18 @@
+{
+  "uid": "376d41711b36",
+  "slug": "a-kettle-on-a-stove-376d41",
+  "version": 1,
+  "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+  },
+  "spock": "0.5.1",
+  "title": "A kettle on a stove",
+  "question": "How long does the kettle take to whistle, and how much does the flame change that?",
+  "line": "A kettle with 1.5 kg of water on a gas burner. The flame puts heat in (about 40% of a gas burner's power reaches the water) and the kettle loses some to the room. The water warms until it reaches 100 ",
+  "size": 35107,
+  "cover": true,
+  "minds": 0,
+  "updated": "2026-11-05",
+  "versions": 1
+}

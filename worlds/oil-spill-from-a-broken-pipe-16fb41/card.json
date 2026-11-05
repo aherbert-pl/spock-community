@@ -1,0 +1,18 @@
+{
+  "uid": "16fb410baf88",
+  "slug": "oil-spill-from-a-broken-pipe-16fb41",
+  "version": 1,
+  "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+  },
+  "spock": "0.5.1",
+  "title": "Oil spill from a broken pipe",
+  "question": "How far from the leak does the oil come up, and how does droplet size (dispersant) change that?",
+  "line": "A pipeline on the seabed, 100 m down, has ruptured and is leaking crude oil. The oil leaves as a cloud of droplets. Oil is lighter than seawater (about 860 against 1025 kg/m\u00b3), so every droplet rises ",
+  "size": 57858,
+  "cover": true,
+  "minds": 0,
+  "updated": "2026-11-05",
+  "versions": 6
+}
