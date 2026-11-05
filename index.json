@@ -2,630 +2,23 @@
  "shelf": "community",
  "worlds": [
   {
-   "uid": "5b2f2487ed4f",
-   "slug": "3d-cart-and-pole-5b2f24",
+   "uid": "f7ebf9fe871d",
+   "slug": "wolf-sheep-meadow-f7ebf9",
    "version": 1,
    "author": {
     "name": "Andrew Herbert",
     "github": "aherbert-pl"
    },
    "spock": "0.5.1",
-   "title": "3D cart and pole",
-   "question": "Can a mind write a pushing rule that keeps a 3D pole upright, and how little push does it need?",
-   "line": "A small cart on a concrete floor that can roll in any direction, with a pole balanced on a ball joint on top. Gravity tips the pole over, and the only way to keep it up is to push the cart under it. A",
-   "size": 46198,
-   "cover": true,
-   "minds": 1,
-   "updated": "2026-11-05",
-   "versions": 2,
-   "stars": 0
-  },
-  {
-   "uid": "635aeb7da162",
-   "slug": "a-garden-at-dusk-635aeb",
-   "version": 1,
-   "author": {
-    "name": "Andrew Herbert",
-    "github": "aherbert-pl"
-   },
-   "spock": "0.5.1",
-   "title": "A garden at dusk",
-   "question": "Lantern lit, how many fireflies can you gather around you?",
-   "line": "A walled garden as the light goes, with fireflies drifting between the trees. Step inside the walker and wander. Light your lantern and the fireflies gather to you; put it out and they scatter back to",
-   "size": 28732,
-   "cover": true,
-   "minds": 0,
-   "updated": "2026-11-05",
-   "versions": 0,
-   "stars": 0
-  },
-  {
-   "uid": "6a14dc27c71d",
-   "slug": "a-heavy-ball-on-a-trampoline-6a14dc",
-   "version": 1,
-   "author": {
-    "name": "Andrew Herbert",
-    "github": "aherbert-pl"
-   },
-   "spock": "0.5.1",
-   "title": "A heavy ball on a trampoline",
-   "question": "How deep does the mat dip under a heavy ball, and where does a ball that comes in at an angle bounce to?",
-   "line": "A 20 kg ball comes in on a slant toward a 4 m × 4 m square trampoline. The mat is a 25 × 25 grid: 23 × 23 knots, each joined to its neighbours by a springy join that only pulls, and an outer ring of f",
-   "size": 41302,
-   "cover": true,
-   "minds": 0,
-   "updated": "2026-11-05",
-   "versions": 3,
-   "stars": 0
-  },
-  {
-   "uid": "376d41711b36",
-   "slug": "a-kettle-on-a-stove-376d41",
-   "version": 1,
-   "author": {
-    "name": "Andrew Herbert",
-    "github": "aherbert-pl"
-   },
-   "spock": "0.5.1",
-   "title": "A kettle on a stove",
-   "question": "How long does the kettle take to whistle, and how much does the flame change that?",
-   "line": "A kettle with 1.5 kg of water on a gas burner. The flame puts heat in (about 40% of a gas burner's power reaches the water) and the kettle loses some to the room. The water warms until it reaches 100 ",
-   "size": 35107,
-   "cover": true,
-   "minds": 0,
-   "updated": "2026-11-05",
-   "versions": 1,
-   "stars": 0
-  },
-  {
-   "uid": "03f97f2dffd5",
-   "slug": "a-small-solar-system-03f97f",
-   "version": 1,
-   "author": {
-    "name": "Andrew Herbert",
-    "github": "aherbert-pl"
-   },
-   "spock": "0.5.1",
-   "title": "A small solar system",
-   "question": "How do the star's mass and the comet's speed decide whether an orbit stays closed, stretches out or escapes?",
-   "line": "The Sun, Mercury, Venus, Earth and Mars, plus the comet Encke, moved only by Newton's gravity. Masses, distances and speeds come from NASA's planetary fact sheet and the JPL Small-Body Database. Every",
-   "size": 21443,
-   "cover": true,
-   "minds": 0,
-   "updated": "2026-11-05",
-   "versions": 2,
-   "stars": 0
-  },
-  {
-   "uid": "0dd84e6a21d3",
-   "slug": "a-spider-making-a-web-in-the-wind-0dd84e",
-   "version": 1,
-   "author": {
-    "name": "Andrew Herbert",
-    "github": "aherbert-pl"
-   },
-   "spock": "0.5.1",
-   "title": "A spider making a web in the wind",
-   "question": "How strong can the wind get before the spider can't finish her web?",
-   "line": "An orb-weaver spins her web between two twigs while the wind gusts. First the frame lines, then 12 spokes, then the sticky capture spiral, which she lays from the outside in. Every thread is a link sh",
-   "size": 167067,
-   "cover": true,
-   "minds": 0,
-   "updated": "2026-11-05",
-   "versions": 5,
-   "stars": 0
-  },
-  {
-   "uid": "d584715d14c1",
-   "slug": "a-tennis-match-d58471",
-   "version": 1,
-   "author": {
-    "name": "Andrew Herbert",
-    "github": "aherbert-pl"
-   },
-   "spock": "0.5.1",
-   "title": "A tennis match",
-   "question": "Does hitting harder and nearer the lines win more points, or does it just lose them to errors?",
-   "line": "A singles match under floodlights on a court of real ITF size. The ball is a 57 g sphere that flies under gravity, air drag and topspin lift (the Magnus effect), and bounces with the energy loss of a ",
-   "size": 61499,
-   "cover": true,
-   "minds": 1,
-   "updated": "2026-11-05",
-   "versions": 2,
-   "stars": 0
-  },
-  {
-   "uid": "7ea84333eb45",
-   "slug": "a-windmill-lighting-a-bulb-7ea843",
-   "version": 1,
-   "author": {
-    "name": "Andrew Herbert",
-    "github": "aherbert-pl"
-   },
-   "spock": "0.5.1",
-   "title": "A windmill lighting a bulb",
-   "question": "How steady is the light when the wind gusts, and how much steadier does a small battery make it?",
-   "line": "A small wind turbine (1.5 m across) on a hillside drives a permanent-magnet generator wired to a 12 V, 60 W filament bulb. The wind gusts and drops at random. The rotor's inertia smooths out quick gus",
-   "size": 50494,
-   "cover": true,
-   "minds": 0,
-   "updated": "2026-11-05",
-   "versions": 3,
-   "stars": 0
-  },
-  {
-   "uid": "d336b31b9af4",
-   "slug": "ants-finding-food-with-pheromone-trails-d336b3",
-   "version": 1,
-   "author": {
-    "name": "Andrew Herbert",
-    "github": "aherbert-pl"
-   },
-   "spock": "0.5.1",
-   "title": "Ants finding food with pheromone trails",
-   "question": "How does the rate at which pheromone evaporates change how quickly the colony brings food home?",
-   "line": "A colony of 150 ants on a patch of ground, with the nest in the middle and three food piles at different distances (near, middle, far). Ants wander until one stumbles on food. Then it carries a crumb ",
-   "size": 51617,
-   "cover": true,
-   "minds": 0,
-   "updated": "2026-11-05",
-   "versions": 9,
-   "stars": 0
-  },
-  {
-   "uid": "a106eaf060b5",
-   "slug": "basketball-shooting-practice-a106ea",
-   "version": 1,
-   "author": {
-    "name": "Andrew Herbert",
-    "github": "aherbert-pl"
-   },
-   "spock": "0.5.1",
-   "title": "Basketball Shooting Practice",
-   "question": "Can a thinking player learn how launch speed and angle depend on distance so they sink shots from anywhere on the court?",
-   "line": "A basketball player moves around a regulation half-court taking jump shots from free-throw range out to the three-point line. Every shot flies under gravity and air drag and bounces off the 3.05 m rim",
-   "size": 90647,
-   "cover": true,
-   "minds": 1,
-   "updated": "2026-11-05",
-   "versions": 5,
-   "stars": 0
-  },
-  {
-   "uid": "220c287925f8",
-   "slug": "boarding-a-plane-220c28",
-   "version": 1,
-   "author": {
-    "name": "Andrew Herbert",
-    "github": "aherbert-pl"
-   },
-   "spock": "0.5.1",
-   "title": "Boarding a plane",
-   "question": "Which boarding order gets a full plane seated fastest, and why?",
-   "line": "A 180-seat single-aisle jet (A320-style: 30 rows of 3+3 seats, 79 cm pitch) boards through its front door. Passengers wait in the gate's rope line, walk down the jetway and the single aisle, and nobod",
-   "size": 73836,
+   "title": "Wolf–sheep meadow",
+   "question": "Can wolves and sheep live together on one meadow, or does one of them always crash?",
+   "line": "A 200 m meadow of grass that is grazed down and grows back. Sheep wander, move towards greener grass when hungry, eat, and have lambs when well fed. Wolves wander, chase the nearest sheep they can see",
+   "size": 81263,
    "cover": true,
    "minds": 0,
    "updated": "2026-11-05",
    "versions": 6,
-   "stars": 0
-  },
-  {
-   "uid": "d8dcd80930a8",
-   "slug": "colour-refraction-a-laser-through-a-prism-d8dcd8",
-   "version": 1,
-   "author": {
-    "name": "Andrew Herbert",
-    "github": "aherbert-pl"
-   },
-   "spock": "0.5.1",
-   "title": "Colour refraction: a laser through a prism",
-   "question": "Why does a prism split white light, and how far apart do red and violet end up for different glasses and beam angles?",
-   "line": "An optics bench seen from above. A laser fires packets of light at a 60° glass prism. Each packet has one wavelength (400–700 nm for white light). It travels at c/n in glass and bends at every face by",
-   "size": 55435,
-   "cover": true,
-   "minds": 0,
-   "updated": "2026-11-05",
-   "versions": 2,
-   "stars": 0
-  },
-  {
-   "uid": "48b517688c75",
-   "slug": "duck-pond-48b517",
-   "version": 1,
-   "author": {
-    "name": "Andrew Herbert",
-    "github": "aherbert-pl"
-   },
-   "spock": "0.5.1",
-   "title": "Duck pond",
-   "question": "When you throw bread, does it get shared out or does a lucky few eat it all?",
-   "line": "A round pond at dusk with twelve mallards. With no bread on the water they drift about. When bread lands, each duck paddles for the nearest piece it can see. Hungry ducks paddle harder than full ones,",
-   "size": 18451,
-   "cover": true,
-   "minds": 0,
-   "updated": "2026-11-05",
-   "versions": 1,
-   "stars": 0
-  },
-  {
-   "uid": "0cc78ee99f7e",
-   "slug": "earth-s-orbital-neighbourhood-0cc78e",
-   "version": 1,
-   "author": {
-    "name": "Andrew Herbert",
-    "github": "aherbert-pl"
-   },
-   "spock": "0.5.1",
-   "title": "Earth's orbital neighbourhood",
-   "question": "Why do geostationary satellites hang still over one place while the ISS and the communications swarm race round the Earth?",
-   "line": "A turning Earth with three kinds of satellite, all under Newton's gravity and real values (GM = 3.986e14 m³/s², 6371 km radius). A ring of 12 geostationary satellites (amber) sits 35,793 km up in the ",
-   "size": 272081,
-   "cover": true,
-   "minds": 0,
-   "updated": "2026-11-05",
-   "versions": 6,
-   "stars": 0
-  },
-  {
-   "uid": "5d025aea7fd2",
-   "slug": "earth-s-sea-currents-5d025a",
-   "version": 1,
-   "author": {
-    "name": "Andrew Herbert",
-    "github": "aherbert-pl"
-   },
-   "spock": "0.5.1",
-   "title": "Earth's sea currents",
-   "question": "Where does floating debris end up, and how long does it take to get there?",
-   "line": "Two thousand floating drifters, like Argo floats or lost rubber ducks, are scattered over the oceans and carried by an idealised model of Earth's wind-driven surface currents. The trade winds drive th",
-   "size": 580850,
-   "cover": true,
-   "minds": 0,
-   "updated": "2026-11-05",
-   "versions": 5,
-   "stars": 0
-  },
-  {
-   "uid": "bc4b10924b0e",
-   "slug": "emergent-tornadogenesis-bc4b10",
-   "version": 1,
-   "author": {
-    "name": "Andrew Herbert",
-    "github": "aherbert-pl"
-   },
-   "spock": "0.5.1",
-   "title": "Emergent Tornadogenesis",
-   "question": "Can a rotating tornado funnel emerge purely from surface heating, buoyancy, straight-line wind shear and low-pressure updraft convergence — with no scripted spin force?",
-   "line": "No vortex is programmed into this world. Instead, 1,400 air parcels sit over a sun-warmed plain beneath cooler air aloft while straight-line opposing winds blow along the outer flanks. When surface he",
-   "size": 84294,
-   "cover": true,
-   "minds": 0,
-   "updated": "2026-11-05",
-   "versions": 4,
-   "stars": 0
-  },
-  {
-   "uid": "e5fcf2f28e69",
-   "slug": "forest-fire-e5fcf2",
-   "version": 1,
-   "author": {
-    "name": "Andrew Herbert",
-    "github": "aherbert-pl"
-   },
-   "spock": "0.5.1",
-   "title": "Forest fire",
-   "question": "How dense does a forest have to be before one spark burns the whole thing?",
-   "line": "A 2 km × 2 km forest seen from above, split into 10 m patches. Each patch is bare ground (dark), a tree (teal), burning (amber) or ash (violet-grey). A spark starts a fire in the west. Fire jumps from",
-   "size": 103192,
-   "cover": true,
-   "minds": 0,
-   "updated": "2026-11-05",
-   "versions": 2,
-   "stars": 0
-  },
-  {
-   "uid": "31aabf7cc872",
-   "slug": "four-stroke-engine-31aabf",
-   "version": 1,
-   "author": {
-    "name": "Andrew Herbert",
-    "github": "aherbert-pl"
-   },
-   "spock": "0.5.1",
-   "title": "Four-stroke engine",
-   "question": "How do throttle, load and spark timing set an engine's speed, torque and power?",
-   "line": "A 2.0 L four-cylinder petrol engine in cutaway (86 mm bore and stroke, 145 mm rods, 10:1 compression). Each piston rides a real slider-crank linkage. The gas in each cylinder is drawn in at manifold p",
-   "size": 26144,
-   "cover": true,
-   "minds": 0,
-   "updated": "2026-11-05",
-   "versions": 1,
-   "stars": 0
-  },
-  {
-   "uid": "bdc15107b94c",
-   "slug": "galaxies-falling-into-a-black-hole-bdc151",
-   "version": 1,
-   "author": {
-    "name": "Andrew Herbert",
-    "github": "aherbert-pl"
-   },
-   "spock": "0.5.1",
-   "title": "Galaxies falling into a black hole",
-   "question": "How fast does a black hole tear galaxies apart and eat them, and which galaxy goes first?",
-   "line": "A giant black hole sits at the centre. Five small galaxies circle it on long, looping orbits. Each is a disc of stars held together by its own dark core. Near the black hole, its pull on a galaxy's ne",
-   "size": 48219,
-   "cover": true,
-   "minds": 0,
-   "updated": "2026-11-05",
-   "versions": 3,
-   "stars": 0
-  },
-  {
-   "uid": "d59df095efe7",
-   "slug": "greedy-township-d59df0",
-   "version": 1,
-   "author": {
-    "name": "Andrew Herbert",
-    "github": "aherbert-pl"
-   },
-   "spock": "0.5.1",
-   "title": "Greedy Township",
-   "question": "Does greed pay off for the greedy, and can the village organise itself so that everyone does better?",
-   "line": "Sixty villagers live in four quarters of a township: farmers (teal), woodcutters (amber), weavers (violet) and toolmakers (rose). Each person makes one good but needs all four, and there is no money, ",
-   "size": 92668,
-   "cover": true,
-   "minds": 3,
-   "updated": "2026-11-05",
-   "versions": 8,
-   "stars": 0
-  },
-  {
-   "uid": "75e4039d76b6",
-   "slug": "market-desk-75e403",
-   "version": 1,
-   "author": {
-    "name": "Andrew Herbert",
-    "github": "aherbert-pl"
-   },
-   "spock": "0.5.1",
-   "title": "Market Desk",
-   "question": "Can a desk of AI minds spot the moves that matter and explain them correctly, without making up stories about noise?",
-   "line": "A simulated trading day (6.5 hours) for twelve fictional companies. Prices wander. Now and then something real happens to a company (earnings, a product, a lawsuit, a CEO leaving): a headline is publi",
-   "size": 49329,
-   "cover": true,
-   "minds": 3,
-   "updated": "2026-11-05",
-   "versions": 4,
-   "stars": 0
-  },
-  {
-   "uid": "32c3911f5e2a",
-   "slug": "meadow-ecosystem-rabbits-foxes-flash-3-8-32c391",
-   "version": 1,
-   "author": {
-    "name": "Andrew Herbert",
-    "github": "aherbert-pl"
-   },
-   "spock": "0.5.1",
-   "title": "Meadow Ecosystem: Rabbits & Foxes - Flash 3.8",
-   "question": "Do rabbit and fox populations settle into sustainable cyclical balance, or does boom-and-bust lead to extinction?",
-   "line": "A vibrant meadow ecosystem in three trophic levels: clover and grass regrow across rolling hills, agile rabbits graze and breed when well-fed, and amber foxes stalk rabbits to survive. If rabbits over",
-   "size": 53484,
-   "cover": true,
-   "minds": 0,
-   "updated": "2026-11-05",
-   "versions": 3,
-   "stars": 0
-  },
-  {
-   "uid": "0c79cb3604fd",
-   "slug": "meadow-predator-prey-ecosystem-flash-3-0c79cb",
-   "version": 1,
-   "author": {
-    "name": "Andrew Herbert",
-    "github": "aherbert-pl"
-   },
-   "spock": "0.5.1",
-   "title": "Meadow predator-prey ecosystem - Flash 3",
-   "question": "Do rabbit and fox populations balance into stable cycles or oscillate to extinction?",
-   "line": "A meadow where rabbits graze on regrowing grass and foxes hunt rabbits. Rabbits breed when energy is high, while foxes starve if they cannot catch prey. Watch the populations rise and fall in natural ",
-   "size": 43149,
-   "cover": true,
-   "minds": 0,
-   "updated": "2026-11-05",
-   "versions": 2,
-   "stars": 0
-  },
-  {
-   "uid": "69325747ea70",
-   "slug": "meadow-rabbits-grass-foxes-argon-693257",
-   "version": 1,
-   "author": {
-    "name": "Andrew Herbert",
-    "github": "aherbert-pl"
-   },
-   "spock": "0.5.1",
-   "title": "Meadow: Rabbits, Grass & Foxes - Argon",
-   "question": "Do rabbits and foxes settle into a steady balance, or do their numbers rise and fall in waves?",
-   "line": "A rolling meadow where clumps of grass regrow in the sun, rabbits hop from patch to patch grazing and breeding when well fed, and foxes stalk the rabbits or starve when prey runs low. Watch how abunda",
-   "size": 56545,
-   "cover": true,
-   "minds": 0,
-   "updated": "2026-11-05",
-   "versions": 3,
-   "stars": 0
-  },
-  {
-   "uid": "0c917c4f3c7b",
-   "slug": "newton-s-cradle-0c917c",
-   "version": 1,
-   "author": {
-    "name": "Andrew Herbert",
-    "github": "aherbert-pl"
-   },
-   "spock": "0.5.1",
-   "title": "Newton's cradle",
-   "question": "What happens to the cradle's 'one ball in, one ball out' pattern when the end balls are heavier or lighter than the middle ones?",
-   "line": "The swinging-balls desk ornament: five polished steel balls, each hanging on a V of two threads from a chrome frame. Choose how it starts: one end ball lifted, both end balls lifted to opposite sides ",
-   "size": 142661,
-   "cover": true,
-   "minds": 0,
-   "updated": "2026-11-05",
-   "versions": 23,
-   "stars": 0
-  },
-  {
-   "uid": "16fb410baf88",
-   "slug": "oil-spill-from-a-broken-pipe-16fb41",
-   "version": 1,
-   "author": {
-    "name": "Andrew Herbert",
-    "github": "aherbert-pl"
-   },
-   "spock": "0.5.1",
-   "title": "Oil spill from a broken pipe",
-   "question": "How far from the leak does the oil come up, and how does droplet size (dispersant) change that?",
-   "line": "A pipeline on the seabed, 100 m down, has ruptured and is leaking crude oil. The oil leaves as a cloud of droplets. Oil is lighter than seawater (about 860 against 1025 kg/m³), so every droplet rises ",
-   "size": 57858,
-   "cover": true,
-   "minds": 0,
-   "updated": "2026-11-05",
-   "versions": 6,
-   "stars": 0
-  },
-  {
-   "uid": "95edfc016b41",
-   "slug": "photon-double-slit-experiment-95edfc",
-   "version": 1,
-   "author": {
-    "name": "Andrew Herbert",
-    "github": "aherbert-pl"
-   },
-   "spock": "0.5.1",
-   "title": "Photon double-slit experiment",
-   "question": "How do single photons arriving one at a time build an interference pattern, and why does knowing which slit they used erase it?",
-   "line": "A faint red laser sends photons at two narrow slits. Each photon lands as a single dot on the screen, and no single dot shows a pattern. As thousands build up, bright and dark fringes appear, exactly ",
-   "size": 64080,
-   "cover": true,
-   "minds": 0,
-   "updated": "2026-11-05",
-   "versions": 2,
-   "stars": 0
-  },
-  {
-   "uid": "f1ab17f1afd7",
-   "slug": "school-of-fish-and-a-hungry-shark-f1ab17",
-   "version": 1,
-   "author": {
-    "name": "Andrew Herbert",
-    "github": "aherbert-pl"
-   },
-   "spock": "0.5.1",
-   "title": "School of fish and a hungry shark",
-   "question": "Does staying tightly schooled protect the fish from a hungry shark?",
-   "line": "Three hundred small fish school in open water. Each fish watches only its seven nearest neighbours: it lines up with them, drifts towards them and keeps a little room. Nobody leads. A shark singles ou",
-   "size": 75552,
-   "cover": true,
-   "minds": 0,
-   "updated": "2026-11-05",
-   "versions": 7,
-   "stars": 0
-  },
-  {
-   "uid": "28972aab00a3",
-   "slug": "starlings-over-a-field-at-dusk-28972a",
-   "version": 1,
-   "author": {
-    "name": "Andrew Herbert",
-    "github": "aherbert-pl"
-   },
-   "spock": "0.5.1",
-   "title": "Starlings over a field at dusk",
-   "question": "How does the flock go from a murmuration to a silent roost as the light fails, and how fast does it settle?",
-   "line": "Eight hundred starlings wheel over an open field as the light fails. Each bird watches only its seven nearest neighbours. It beats its wings hard when it climbs, steadily when it flies level, and fold",
-   "size": 39291,
-   "cover": true,
-   "minds": 0,
-   "updated": "2026-11-05",
-   "versions": 1,
-   "stars": 0
-  },
-  {
-   "uid": "ce0d1b237121",
-   "slug": "the-learning-juggler-ce0d1b",
-   "version": 1,
-   "author": {
-    "name": "Andrew Herbert",
-    "github": "aherbert-pl"
-   },
-   "spock": "0.5.1",
-   "title": "The Learning Juggler",
-   "question": "Starting from nothing, can the juggler learn from its drops to keep every ball going within max_tries tries (100 by default)?",
-   "line": "A two-handed juggler who starts out not knowing how to juggle. All it can do is throw a ball upwards at any angle and speed, choose how long to hold a ball before throwing it, and move its hands. Ball",
-   "size": 183061,
-   "cover": true,
-   "minds": 1,
-   "updated": "2026-11-05",
-   "versions": 18,
-   "stars": 0
-  },
-  {
-   "uid": "565d785b6d49",
-   "slug": "three-bodies-one-butterfly-565d78",
-   "version": 1,
-   "author": {
-    "name": "Andrew Herbert",
-    "github": "aherbert-pl"
-   },
-   "spock": "0.5.1",
-   "title": "Three bodies, one butterfly",
-   "question": "How fast does a tiny difference in where the stars start grow until the future is unpredictable?",
-   "line": "Three stars of 3, 4 and 5 suns start at rest on the corners of a 3-4-5 triangle measured in AU (Burrau's 'Pythagorean' problem), here lifted out of the flat plane: the stars start +1, +0.5 and −1 AU a",
-   "size": 24389,
-   "cover": true,
-   "minds": 0,
-   "updated": "2026-11-05",
-   "versions": 3,
-   "stars": 0
-  },
-  {
-   "uid": "8fa020a1dd88",
-   "slug": "two-drivers-learning-a-circuit-8fa020",
-   "version": 1,
-   "author": {
-    "name": "Andrew Herbert",
-    "github": "aherbert-pl"
-   },
-   "spock": "0.5.1",
-   "title": "Two drivers learning a circuit",
-   "question": "Can a driver that only thinks between laps learn to lap faster without throwing the car off the track?",
-   "line": "A fair race between two minds. Two identical cars (same tyres, same engine, same starting settings) start side by side on a closed circuit at night. Teal is driven by Claude Opus and Amber by Gemini F",
-   "size": 42227,
-   "cover": true,
-   "minds": 2,
-   "updated": "2026-11-05",
-   "versions": 2,
-   "stars": 0
-  },
-  {
-   "uid": "08d62b484eb4",
-   "slug": "walk-or-run-in-the-rain-08d62b",
-   "version": 1,
-   "author": {
-    "name": "Andrew Herbert",
-    "github": "aherbert-pl"
-   },
-   "spock": "0.5.1",
-   "title": "Walk or run in the rain?",
-   "question": "Over the same distance, does running keep you drier than walking — and does a tailwind change the answer?",
-   "line": "Three people cross the same 100 m street in steady rain: the walker (1.4 m/s), the runner (5 m/s) and you (set your own speed). Rain reaches you two ways. The TOP of you (head and shoulders, 0.15 m²) ",
-   "size": 49011,
-   "cover": true,
-   "minds": 0,
-   "updated": "2026-11-05",
-   "versions": 3,
+   "issue": 35,
    "stars": 0
   },
   {
@@ -645,25 +38,667 @@
    "minds": 0,
    "updated": "2026-11-05",
    "versions": 2,
+   "issue": 34,
    "stars": 0
   },
   {
-   "uid": "f7ebf9fe871d",
-   "slug": "wolf-sheep-meadow-f7ebf9",
+   "uid": "08d62b484eb4",
+   "slug": "walk-or-run-in-the-rain-08d62b",
    "version": 1,
    "author": {
     "name": "Andrew Herbert",
     "github": "aherbert-pl"
    },
    "spock": "0.5.1",
-   "title": "Wolf–sheep meadow",
-   "question": "Can wolves and sheep live together on one meadow, or does one of them always crash?",
-   "line": "A 200 m meadow of grass that is grazed down and grows back. Sheep wander, move towards greener grass when hungry, eat, and have lambs when well fed. Wolves wander, chase the nearest sheep they can see",
-   "size": 81263,
+   "title": "Walk or run in the rain?",
+   "question": "Over the same distance, does running keep you drier than walking — and does a tailwind change the answer?",
+   "line": "Three people cross the same 100 m street in steady rain: the walker (1.4 m/s), the runner (5 m/s) and you (set your own speed). Rain reaches you two ways. The TOP of you (head and shoulders, 0.15 m²) ",
+   "size": 49011,
+   "cover": true,
+   "minds": 0,
+   "updated": "2026-11-05",
+   "versions": 3,
+   "issue": 33,
+   "stars": 0
+  },
+  {
+   "uid": "8fa020a1dd88",
+   "slug": "two-drivers-learning-a-circuit-8fa020",
+   "version": 1,
+   "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+   },
+   "spock": "0.5.1",
+   "title": "Two drivers learning a circuit",
+   "question": "Can a driver that only thinks between laps learn to lap faster without throwing the car off the track?",
+   "line": "A fair race between two minds. Two identical cars (same tyres, same engine, same starting settings) start side by side on a closed circuit at night. Teal is driven by Claude Opus and Amber by Gemini F",
+   "size": 42227,
+   "cover": true,
+   "minds": 2,
+   "updated": "2026-11-05",
+   "versions": 2,
+   "issue": 32,
+   "stars": 0
+  },
+  {
+   "uid": "565d785b6d49",
+   "slug": "three-bodies-one-butterfly-565d78",
+   "version": 1,
+   "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+   },
+   "spock": "0.5.1",
+   "title": "Three bodies, one butterfly",
+   "question": "How fast does a tiny difference in where the stars start grow until the future is unpredictable?",
+   "line": "Three stars of 3, 4 and 5 suns start at rest on the corners of a 3-4-5 triangle measured in AU (Burrau's 'Pythagorean' problem), here lifted out of the flat plane: the stars start +1, +0.5 and −1 AU a",
+   "size": 24389,
+   "cover": true,
+   "minds": 0,
+   "updated": "2026-11-05",
+   "versions": 3,
+   "issue": 31,
+   "stars": 0
+  },
+  {
+   "uid": "ce0d1b237121",
+   "slug": "the-learning-juggler-ce0d1b",
+   "version": 1,
+   "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+   },
+   "spock": "0.5.1",
+   "title": "The Learning Juggler",
+   "question": "Starting from nothing, can the juggler learn from its drops to keep every ball going within max_tries tries (100 by default)?",
+   "line": "A two-handed juggler who starts out not knowing how to juggle. All it can do is throw a ball upwards at any angle and speed, choose how long to hold a ball before throwing it, and move its hands. Ball",
+   "size": 183061,
+   "cover": true,
+   "minds": 1,
+   "updated": "2026-11-05",
+   "versions": 18,
+   "issue": 30,
+   "stars": 0
+  },
+  {
+   "uid": "28972aab00a3",
+   "slug": "starlings-over-a-field-at-dusk-28972a",
+   "version": 1,
+   "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+   },
+   "spock": "0.5.1",
+   "title": "Starlings over a field at dusk",
+   "question": "How does the flock go from a murmuration to a silent roost as the light fails, and how fast does it settle?",
+   "line": "Eight hundred starlings wheel over an open field as the light fails. Each bird watches only its seven nearest neighbours. It beats its wings hard when it climbs, steadily when it flies level, and fold",
+   "size": 39291,
+   "cover": true,
+   "minds": 0,
+   "updated": "2026-11-05",
+   "versions": 1,
+   "issue": 29,
+   "stars": 0
+  },
+  {
+   "uid": "f1ab17f1afd7",
+   "slug": "school-of-fish-and-a-hungry-shark-f1ab17",
+   "version": 1,
+   "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+   },
+   "spock": "0.5.1",
+   "title": "School of fish and a hungry shark",
+   "question": "Does staying tightly schooled protect the fish from a hungry shark?",
+   "line": "Three hundred small fish school in open water. Each fish watches only its seven nearest neighbours: it lines up with them, drifts towards them and keeps a little room. Nobody leads. A shark singles ou",
+   "size": 75552,
+   "cover": true,
+   "minds": 0,
+   "updated": "2026-11-05",
+   "versions": 7,
+   "issue": 28,
+   "stars": 0
+  },
+  {
+   "uid": "95edfc016b41",
+   "slug": "photon-double-slit-experiment-95edfc",
+   "version": 1,
+   "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+   },
+   "spock": "0.5.1",
+   "title": "Photon double-slit experiment",
+   "question": "How do single photons arriving one at a time build an interference pattern, and why does knowing which slit they used erase it?",
+   "line": "A faint red laser sends photons at two narrow slits. Each photon lands as a single dot on the screen, and no single dot shows a pattern. As thousands build up, bright and dark fringes appear, exactly ",
+   "size": 64080,
+   "cover": true,
+   "minds": 0,
+   "updated": "2026-11-05",
+   "versions": 2,
+   "issue": 27,
+   "stars": 0
+  },
+  {
+   "uid": "16fb410baf88",
+   "slug": "oil-spill-from-a-broken-pipe-16fb41",
+   "version": 1,
+   "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+   },
+   "spock": "0.5.1",
+   "title": "Oil spill from a broken pipe",
+   "question": "How far from the leak does the oil come up, and how does droplet size (dispersant) change that?",
+   "line": "A pipeline on the seabed, 100 m down, has ruptured and is leaking crude oil. The oil leaves as a cloud of droplets. Oil is lighter than seawater (about 860 against 1025 kg/m³), so every droplet rises ",
+   "size": 57858,
    "cover": true,
    "minds": 0,
    "updated": "2026-11-05",
    "versions": 6,
+   "issue": 26,
+   "stars": 0
+  },
+  {
+   "uid": "0c917c4f3c7b",
+   "slug": "newton-s-cradle-0c917c",
+   "version": 1,
+   "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+   },
+   "spock": "0.5.1",
+   "title": "Newton's cradle",
+   "question": "What happens to the cradle's 'one ball in, one ball out' pattern when the end balls are heavier or lighter than the middle ones?",
+   "line": "The swinging-balls desk ornament: five polished steel balls, each hanging on a V of two threads from a chrome frame. Choose how it starts: one end ball lifted, both end balls lifted to opposite sides ",
+   "size": 142661,
+   "cover": true,
+   "minds": 0,
+   "updated": "2026-11-05",
+   "versions": 23,
+   "issue": 25,
+   "stars": 0
+  },
+  {
+   "uid": "69325747ea70",
+   "slug": "meadow-rabbits-grass-foxes-argon-693257",
+   "version": 1,
+   "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+   },
+   "spock": "0.5.1",
+   "title": "Meadow: Rabbits, Grass & Foxes - Argon",
+   "question": "Do rabbits and foxes settle into a steady balance, or do their numbers rise and fall in waves?",
+   "line": "A rolling meadow where clumps of grass regrow in the sun, rabbits hop from patch to patch grazing and breeding when well fed, and foxes stalk the rabbits or starve when prey runs low. Watch how abunda",
+   "size": 56545,
+   "cover": true,
+   "minds": 0,
+   "updated": "2026-11-05",
+   "versions": 3,
+   "issue": 24,
+   "stars": 0
+  },
+  {
+   "uid": "0c79cb3604fd",
+   "slug": "meadow-predator-prey-ecosystem-flash-3-0c79cb",
+   "version": 1,
+   "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+   },
+   "spock": "0.5.1",
+   "title": "Meadow predator-prey ecosystem - Flash 3",
+   "question": "Do rabbit and fox populations balance into stable cycles or oscillate to extinction?",
+   "line": "A meadow where rabbits graze on regrowing grass and foxes hunt rabbits. Rabbits breed when energy is high, while foxes starve if they cannot catch prey. Watch the populations rise and fall in natural ",
+   "size": 43149,
+   "cover": true,
+   "minds": 0,
+   "updated": "2026-11-05",
+   "versions": 2,
+   "issue": 23,
+   "stars": 0
+  },
+  {
+   "uid": "32c3911f5e2a",
+   "slug": "meadow-ecosystem-rabbits-foxes-flash-3-8-32c391",
+   "version": 1,
+   "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+   },
+   "spock": "0.5.1",
+   "title": "Meadow Ecosystem: Rabbits & Foxes - Flash 3.8",
+   "question": "Do rabbit and fox populations settle into sustainable cyclical balance, or does boom-and-bust lead to extinction?",
+   "line": "A vibrant meadow ecosystem in three trophic levels: clover and grass regrow across rolling hills, agile rabbits graze and breed when well-fed, and amber foxes stalk rabbits to survive. If rabbits over",
+   "size": 53484,
+   "cover": true,
+   "minds": 0,
+   "updated": "2026-11-05",
+   "versions": 3,
+   "issue": 22,
+   "stars": 0
+  },
+  {
+   "uid": "75e4039d76b6",
+   "slug": "market-desk-75e403",
+   "version": 1,
+   "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+   },
+   "spock": "0.5.1",
+   "title": "Market Desk",
+   "question": "Can a desk of AI minds spot the moves that matter and explain them correctly, without making up stories about noise?",
+   "line": "A simulated trading day (6.5 hours) for twelve fictional companies. Prices wander. Now and then something real happens to a company (earnings, a product, a lawsuit, a CEO leaving): a headline is publi",
+   "size": 49329,
+   "cover": true,
+   "minds": 3,
+   "updated": "2026-11-05",
+   "versions": 4,
+   "issue": 21,
+   "stars": 0
+  },
+  {
+   "uid": "d59df095efe7",
+   "slug": "greedy-township-d59df0",
+   "version": 1,
+   "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+   },
+   "spock": "0.5.1",
+   "title": "Greedy Township",
+   "question": "Does greed pay off for the greedy, and can the village organise itself so that everyone does better?",
+   "line": "Sixty villagers live in four quarters of a township: farmers (teal), woodcutters (amber), weavers (violet) and toolmakers (rose). Each person makes one good but needs all four, and there is no money, ",
+   "size": 92668,
+   "cover": true,
+   "minds": 3,
+   "updated": "2026-11-05",
+   "versions": 8,
+   "issue": 20,
+   "stars": 0
+  },
+  {
+   "uid": "bdc15107b94c",
+   "slug": "galaxies-falling-into-a-black-hole-bdc151",
+   "version": 1,
+   "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+   },
+   "spock": "0.5.1",
+   "title": "Galaxies falling into a black hole",
+   "question": "How fast does a black hole tear galaxies apart and eat them, and which galaxy goes first?",
+   "line": "A giant black hole sits at the centre. Five small galaxies circle it on long, looping orbits. Each is a disc of stars held together by its own dark core. Near the black hole, its pull on a galaxy's ne",
+   "size": 48219,
+   "cover": true,
+   "minds": 0,
+   "updated": "2026-11-05",
+   "versions": 3,
+   "issue": 19,
+   "stars": 0
+  },
+  {
+   "uid": "31aabf7cc872",
+   "slug": "four-stroke-engine-31aabf",
+   "version": 1,
+   "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+   },
+   "spock": "0.5.1",
+   "title": "Four-stroke engine",
+   "question": "How do throttle, load and spark timing set an engine's speed, torque and power?",
+   "line": "A 2.0 L four-cylinder petrol engine in cutaway (86 mm bore and stroke, 145 mm rods, 10:1 compression). Each piston rides a real slider-crank linkage. The gas in each cylinder is drawn in at manifold p",
+   "size": 26144,
+   "cover": true,
+   "minds": 0,
+   "updated": "2026-11-05",
+   "versions": 1,
+   "issue": 18,
+   "stars": 0
+  },
+  {
+   "uid": "e5fcf2f28e69",
+   "slug": "forest-fire-e5fcf2",
+   "version": 1,
+   "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+   },
+   "spock": "0.5.1",
+   "title": "Forest fire",
+   "question": "How dense does a forest have to be before one spark burns the whole thing?",
+   "line": "A 2 km × 2 km forest seen from above, split into 10 m patches. Each patch is bare ground (dark), a tree (teal), burning (amber) or ash (violet-grey). A spark starts a fire in the west. Fire jumps from",
+   "size": 103192,
+   "cover": true,
+   "minds": 0,
+   "updated": "2026-11-05",
+   "versions": 2,
+   "issue": 17,
+   "stars": 0
+  },
+  {
+   "uid": "bc4b10924b0e",
+   "slug": "emergent-tornadogenesis-bc4b10",
+   "version": 1,
+   "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+   },
+   "spock": "0.5.1",
+   "title": "Emergent Tornadogenesis",
+   "question": "Can a rotating tornado funnel emerge purely from surface heating, buoyancy, straight-line wind shear and low-pressure updraft convergence — with no scripted spin force?",
+   "line": "No vortex is programmed into this world. Instead, 1,400 air parcels sit over a sun-warmed plain beneath cooler air aloft while straight-line opposing winds blow along the outer flanks. When surface he",
+   "size": 84294,
+   "cover": true,
+   "minds": 0,
+   "updated": "2026-11-05",
+   "versions": 4,
+   "issue": 16,
+   "stars": 0
+  },
+  {
+   "uid": "5d025aea7fd2",
+   "slug": "earth-s-sea-currents-5d025a",
+   "version": 1,
+   "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+   },
+   "spock": "0.5.1",
+   "title": "Earth's sea currents",
+   "question": "Where does floating debris end up, and how long does it take to get there?",
+   "line": "Two thousand floating drifters, like Argo floats or lost rubber ducks, are scattered over the oceans and carried by an idealised model of Earth's wind-driven surface currents. The trade winds drive th",
+   "size": 580850,
+   "cover": true,
+   "minds": 0,
+   "updated": "2026-11-05",
+   "versions": 5,
+   "issue": 15,
+   "stars": 0
+  },
+  {
+   "uid": "0cc78ee99f7e",
+   "slug": "earth-s-orbital-neighbourhood-0cc78e",
+   "version": 1,
+   "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+   },
+   "spock": "0.5.1",
+   "title": "Earth's orbital neighbourhood",
+   "question": "Why do geostationary satellites hang still over one place while the ISS and the communications swarm race round the Earth?",
+   "line": "A turning Earth with three kinds of satellite, all under Newton's gravity and real values (GM = 3.986e14 m³/s², 6371 km radius). A ring of 12 geostationary satellites (amber) sits 35,793 km up in the ",
+   "size": 272081,
+   "cover": true,
+   "minds": 0,
+   "updated": "2026-11-05",
+   "versions": 6,
+   "issue": 14,
+   "stars": 0
+  },
+  {
+   "uid": "48b517688c75",
+   "slug": "duck-pond-48b517",
+   "version": 1,
+   "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+   },
+   "spock": "0.5.1",
+   "title": "Duck pond",
+   "question": "When you throw bread, does it get shared out or does a lucky few eat it all?",
+   "line": "A round pond at dusk with twelve mallards. With no bread on the water they drift about. When bread lands, each duck paddles for the nearest piece it can see. Hungry ducks paddle harder than full ones,",
+   "size": 18451,
+   "cover": true,
+   "minds": 0,
+   "updated": "2026-11-05",
+   "versions": 1,
+   "issue": 13,
+   "stars": 0
+  },
+  {
+   "uid": "d8dcd80930a8",
+   "slug": "colour-refraction-a-laser-through-a-prism-d8dcd8",
+   "version": 1,
+   "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+   },
+   "spock": "0.5.1",
+   "title": "Colour refraction: a laser through a prism",
+   "question": "Why does a prism split white light, and how far apart do red and violet end up for different glasses and beam angles?",
+   "line": "An optics bench seen from above. A laser fires packets of light at a 60° glass prism. Each packet has one wavelength (400–700 nm for white light). It travels at c/n in glass and bends at every face by",
+   "size": 55435,
+   "cover": true,
+   "minds": 0,
+   "updated": "2026-11-05",
+   "versions": 2,
+   "issue": 12,
+   "stars": 0
+  },
+  {
+   "uid": "220c287925f8",
+   "slug": "boarding-a-plane-220c28",
+   "version": 1,
+   "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+   },
+   "spock": "0.5.1",
+   "title": "Boarding a plane",
+   "question": "Which boarding order gets a full plane seated fastest, and why?",
+   "line": "A 180-seat single-aisle jet (A320-style: 30 rows of 3+3 seats, 79 cm pitch) boards through its front door. Passengers wait in the gate's rope line, walk down the jetway and the single aisle, and nobod",
+   "size": 73836,
+   "cover": true,
+   "minds": 0,
+   "updated": "2026-11-05",
+   "versions": 6,
+   "issue": 11,
+   "stars": 0
+  },
+  {
+   "uid": "a106eaf060b5",
+   "slug": "basketball-shooting-practice-a106ea",
+   "version": 1,
+   "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+   },
+   "spock": "0.5.1",
+   "title": "Basketball Shooting Practice",
+   "question": "Can a thinking player learn how launch speed and angle depend on distance so they sink shots from anywhere on the court?",
+   "line": "A basketball player moves around a regulation half-court taking jump shots from free-throw range out to the three-point line. Every shot flies under gravity and air drag and bounces off the 3.05 m rim",
+   "size": 90647,
+   "cover": true,
+   "minds": 1,
+   "updated": "2026-11-05",
+   "versions": 5,
+   "issue": 10,
+   "stars": 0
+  },
+  {
+   "uid": "d336b31b9af4",
+   "slug": "ants-finding-food-with-pheromone-trails-d336b3",
+   "version": 1,
+   "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+   },
+   "spock": "0.5.1",
+   "title": "Ants finding food with pheromone trails",
+   "question": "How does the rate at which pheromone evaporates change how quickly the colony brings food home?",
+   "line": "A colony of 150 ants on a patch of ground, with the nest in the middle and three food piles at different distances (near, middle, far). Ants wander until one stumbles on food. Then it carries a crumb ",
+   "size": 51617,
+   "cover": true,
+   "minds": 0,
+   "updated": "2026-11-05",
+   "versions": 9,
+   "issue": 9,
+   "stars": 0
+  },
+  {
+   "uid": "7ea84333eb45",
+   "slug": "a-windmill-lighting-a-bulb-7ea843",
+   "version": 1,
+   "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+   },
+   "spock": "0.5.1",
+   "title": "A windmill lighting a bulb",
+   "question": "How steady is the light when the wind gusts, and how much steadier does a small battery make it?",
+   "line": "A small wind turbine (1.5 m across) on a hillside drives a permanent-magnet generator wired to a 12 V, 60 W filament bulb. The wind gusts and drops at random. The rotor's inertia smooths out quick gus",
+   "size": 50494,
+   "cover": true,
+   "minds": 0,
+   "updated": "2026-11-05",
+   "versions": 3,
+   "issue": 8,
+   "stars": 0
+  },
+  {
+   "uid": "d584715d14c1",
+   "slug": "a-tennis-match-d58471",
+   "version": 1,
+   "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+   },
+   "spock": "0.5.1",
+   "title": "A tennis match",
+   "question": "Does hitting harder and nearer the lines win more points, or does it just lose them to errors?",
+   "line": "A singles match under floodlights on a court of real ITF size. The ball is a 57 g sphere that flies under gravity, air drag and topspin lift (the Magnus effect), and bounces with the energy loss of a ",
+   "size": 61499,
+   "cover": true,
+   "minds": 1,
+   "updated": "2026-11-05",
+   "versions": 2,
+   "issue": 7,
+   "stars": 0
+  },
+  {
+   "uid": "0dd84e6a21d3",
+   "slug": "a-spider-making-a-web-in-the-wind-0dd84e",
+   "version": 1,
+   "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+   },
+   "spock": "0.5.1",
+   "title": "A spider making a web in the wind",
+   "question": "How strong can the wind get before the spider can't finish her web?",
+   "line": "An orb-weaver spins her web between two twigs while the wind gusts. First the frame lines, then 12 spokes, then the sticky capture spiral, which she lays from the outside in. Every thread is a link sh",
+   "size": 167067,
+   "cover": true,
+   "minds": 0,
+   "updated": "2026-11-05",
+   "versions": 5,
+   "issue": 6,
+   "stars": 0
+  },
+  {
+   "uid": "03f97f2dffd5",
+   "slug": "a-small-solar-system-03f97f",
+   "version": 1,
+   "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+   },
+   "spock": "0.5.1",
+   "title": "A small solar system",
+   "question": "How do the star's mass and the comet's speed decide whether an orbit stays closed, stretches out or escapes?",
+   "line": "The Sun, Mercury, Venus, Earth and Mars, plus the comet Encke, moved only by Newton's gravity. Masses, distances and speeds come from NASA's planetary fact sheet and the JPL Small-Body Database. Every",
+   "size": 21443,
+   "cover": true,
+   "minds": 0,
+   "updated": "2026-11-05",
+   "versions": 2,
+   "issue": 5,
+   "stars": 0
+  },
+  {
+   "uid": "376d41711b36",
+   "slug": "a-kettle-on-a-stove-376d41",
+   "version": 1,
+   "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+   },
+   "spock": "0.5.1",
+   "title": "A kettle on a stove",
+   "question": "How long does the kettle take to whistle, and how much does the flame change that?",
+   "line": "A kettle with 1.5 kg of water on a gas burner. The flame puts heat in (about 40% of a gas burner's power reaches the water) and the kettle loses some to the room. The water warms until it reaches 100 ",
+   "size": 35107,
+   "cover": true,
+   "minds": 0,
+   "updated": "2026-11-05",
+   "versions": 1,
+   "issue": 4,
+   "stars": 0
+  },
+  {
+   "uid": "6a14dc27c71d",
+   "slug": "a-heavy-ball-on-a-trampoline-6a14dc",
+   "version": 1,
+   "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+   },
+   "spock": "0.5.1",
+   "title": "A heavy ball on a trampoline",
+   "question": "How deep does the mat dip under a heavy ball, and where does a ball that comes in at an angle bounce to?",
+   "line": "A 20 kg ball comes in on a slant toward a 4 m × 4 m square trampoline. The mat is a 25 × 25 grid: 23 × 23 knots, each joined to its neighbours by a springy join that only pulls, and an outer ring of f",
+   "size": 41302,
+   "cover": true,
+   "minds": 0,
+   "updated": "2026-11-05",
+   "versions": 3,
+   "issue": 3,
+   "stars": 0
+  },
+  {
+   "uid": "635aeb7da162",
+   "slug": "a-garden-at-dusk-635aeb",
+   "version": 1,
+   "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+   },
+   "spock": "0.5.1",
+   "title": "A garden at dusk",
+   "question": "Lantern lit, how many fireflies can you gather around you?",
+   "line": "A walled garden as the light goes, with fireflies drifting between the trees. Step inside the walker and wander. Light your lantern and the fireflies gather to you; put it out and they scatter back to",
+   "size": 28732,
+   "cover": true,
+   "minds": 0,
+   "updated": "2026-11-05",
+   "versions": 0,
+   "issue": 2,
+   "stars": 0
+  },
+  {
+   "uid": "5b2f2487ed4f",
+   "slug": "3d-cart-and-pole-5b2f24",
+   "version": 1,
+   "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+   },
+   "spock": "0.5.1",
+   "title": "3D cart and pole",
+   "question": "Can a mind write a pushing rule that keeps a 3D pole upright, and how little push does it need?",
+   "line": "A small cart on a concrete floor that can roll in any direction, with a pole balanced on a ball joint on top. Gravity tips the pole over, and the only way to keep it up is to push the cart under it. A",
+   "size": 46198,
+   "cover": true,
+   "minds": 1,
+   "updated": "2026-11-05",
+   "versions": 2,
+   "issue": 1,
    "stars": 0
   }
  ]
