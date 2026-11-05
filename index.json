@@ -122,6 +122,26 @@
    "stars": 0
   },
   {
+   "uid": "755e54111ef5",
+   "slug": "the-cobble-clutch-boulevard-755e54",
+   "version": 1,
+   "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+   },
+   "spock": "0.5.1",
+   "title": "The Cobble & Clutch Boulevard",
+   "question": "Does high-margin exclusivity beat high-volume accessible pricing for shoe and bag boutiques on the same street?",
+   "line": "",
+   "size": 83239,
+   "cover": true,
+   "minds": 2,
+   "updated": "2026-11-05",
+   "versions": 1,
+   "issue": 38,
+   "stars": 0
+  },
+  {
    "uid": "28972aab00a3",
    "slug": "starlings-over-a-field-at-dusk-28972a",
    "version": 1,
