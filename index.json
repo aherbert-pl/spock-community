@@ -68,6 +68,28 @@
    "stars": 0
   },
   {
+   "uid": "01286b5e833c",
+   "slug": "two-lane-roundabout-vs-traffic-lights-01286b",
+   "version": 1,
+   "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+   },
+   "spock": "0.6.0",
+   "title": "Two-Lane Roundabout vs Traffic Lights",
+   "question": "Does a two-lane roundabout move more traffic with less delay than a four-way set of traffic lights across low, medium and heavy arrival rates?",
+   "line": "",
+   "size": 33073,
+   "cover": true,
+   "minds": 0,
+   "updated": "2026-11-05",
+   "versions": 1,
+   "download": "https://github.com/aherbert-pl/spock-community/releases/download/worlds/two-lane-roundabout-vs-traffic-lights-01286b-v1.spock",
+   "opens": 0,
+   "issue": 40,
+   "stars": 0
+  },
+  {
    "uid": "8fa020a1dd88",
    "slug": "two-drivers-learning-a-circuit-8fa020",
    "version": 1,
@@ -571,7 +593,7 @@
    "download": "https://github.com/aherbert-pl/spock-community/releases/download/worlds/boarding-a-plane-220c28-v1.spock",
    "opens": 1,
    "issue": 11,
-   "stars": 0
+   "stars": 1
   },
   {
    "uid": "a106eaf060b5",
@@ -659,7 +681,7 @@
    "download": "https://github.com/aherbert-pl/spock-community/releases/download/worlds/a-tennis-match-d58471-v1.spock",
    "opens": 1,
    "issue": 7,
-   "stars": 0
+   "stars": 1
   },
   {
    "uid": "0dd84e6a21d3",
@@ -747,7 +769,7 @@
    "download": "https://github.com/aherbert-pl/spock-community/releases/download/worlds/a-heavy-ball-on-a-trampoline-6a14dc-v1.spock",
    "opens": 2,
    "issue": 3,
-   "stars": 0
+   "stars": 1
   },
   {
    "uid": "635aeb7da162",
