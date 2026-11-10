@@ -1,0 +1,18 @@
+{
+  "uid": "5b7ef3946918",
+  "slug": "fairground-claw-ride-5b7ef3",
+  "version": 1,
+  "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+  },
+  "spock": "0.7.2",
+  "title": "Fairground Claw Ride",
+  "question": "How does unbalanced seating change how fast and wildly the claw spins as it swings?",
+  "line": "",
+  "size": 29907,
+  "cover": true,
+  "minds": 0,
+  "updated": "2026-11-10",
+  "versions": 1
+}
