@@ -1,0 +1,18 @@
+{
+  "uid": "5f973f00847e",
+  "slug": "the-thinking-balloon-5f973f",
+  "version": 1,
+  "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+  },
+  "spock": "0.7.2",
+  "title": "The thinking balloon",
+  "question": "Can a thinking pilot reach a target it cannot steer towards, using only altitude and changing winds?",
+  "line": "",
+  "size": 30780,
+  "cover": true,
+  "minds": 1,
+  "updated": "2026-11-10",
+  "versions": 1
+}
