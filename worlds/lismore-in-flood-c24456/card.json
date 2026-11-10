@@ -1,0 +1,18 @@
+{
+  "uid": "c2445625867e",
+  "slug": "lismore-in-flood-c24456",
+  "version": 1,
+  "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+  },
+  "spock": "0.7.2",
+  "title": "Lismore in flood",
+  "question": "How high must the Wilsons River rise before the people of Lismore run out of dry ground?",
+  "line": "",
+  "size": 91324,
+  "cover": true,
+  "minds": 0,
+  "updated": "2026-11-10",
+  "versions": 8
+}
