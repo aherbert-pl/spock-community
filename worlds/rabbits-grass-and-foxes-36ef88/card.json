@@ -1,0 +1,18 @@
+{
+  "uid": "36ef887fdb25",
+  "slug": "rabbits-grass-and-foxes-36ef88",
+  "version": 1,
+  "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+  },
+  "spock": "0.7.2",
+  "title": "Rabbits, grass and foxes",
+  "question": "Do rabbit and fox numbers settle into a balance, or boom and crash?",
+  "line": "",
+  "size": 48712,
+  "cover": true,
+  "minds": 0,
+  "updated": "2026-11-10",
+  "versions": 3
+}
