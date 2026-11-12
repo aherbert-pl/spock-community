@@ -628,6 +628,7 @@
    "minds": 0,
    "updated": "2026-11-05",
    "versions": 3,
+   "featured": true,
    "download": "https://github.com/aherbert-pl/spock-community/releases/download/worlds/galaxies-falling-into-a-black-hole-bdc151-v1.spock",
    "opens": 1,
    "issue": 19,
