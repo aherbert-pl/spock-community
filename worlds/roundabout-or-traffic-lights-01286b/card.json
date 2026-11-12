@@ -1,0 +1,18 @@
+{
+  "uid": "01286b5e833c",
+  "slug": "roundabout-or-traffic-lights-01286b",
+  "version": 2,
+  "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+  },
+  "spock": "0.7.2",
+  "title": "Roundabout or traffic lights?",
+  "question": "Does a roundabout move more traffic with less delay than traffic lights, in light, medium and heavy traffic?",
+  "line": "",
+  "size": 42131,
+  "cover": true,
+  "minds": 0,
+  "updated": "2026-11-12",
+  "versions": 2
+}
