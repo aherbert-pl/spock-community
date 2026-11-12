@@ -1,19 +1,18 @@
 {
   "uid": "ce0d1b237121",
   "slug": "the-learning-juggler-ce0d1b",
-  "version": 1,
+  "version": 2,
   "author": {
     "name": "Andrew Herbert",
     "github": "aherbert-pl"
   },
-  "spock": "0.5.1",
-  "title": "The Learning Juggler",
-  "question": "Starting from nothing, can the juggler learn from its drops to keep every ball going within max_tries tries (100 by default)?",
+  "spock": "0.7.2",
+  "title": "The learning juggler",
+  "question": "Starting from nothing, can a juggler teach itself to keep every ball in the air?",
   "line": "A two-handed juggler who starts out not knowing how to juggle. All it can do is throw a ball upwards at any angle and speed, choose how long to hold a ball before throwing it, and move its hands. Ball",
-  "size": 183061,
+  "size": 216151,
   "cover": true,
   "minds": 1,
-  "updated": "2026-11-05",
-  "versions": 18,
-  "featured": true
+  "updated": "2026-11-12",
+  "versions": 21
 }
