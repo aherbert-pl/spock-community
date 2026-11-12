@@ -1,19 +1,18 @@
 {
   "uid": "9a3fcd821c86",
   "slug": "double-pendulum-chaos-or-not-9a3fcd",
-  "version": 1,
+  "version": 2,
   "author": {
     "name": "Andrew Herbert",
     "github": "aherbert-pl"
   },
   "spock": "0.7.2",
-  "title": "Double Pendulum: Chaos or Not?",
+  "title": "Double pendulum: chaos or not?",
   "question": "When do nearly identical double pendulums swing in lockstep, and when do tiny starting differences explode into chaos?",
   "line": "",
-  "size": 20948,
+  "size": 32110,
   "cover": true,
   "minds": 0,
-  "updated": "2026-11-10",
-  "versions": 1,
-  "featured": true
+  "updated": "2026-11-12",
+  "versions": 2
 }
