@@ -1,0 +1,18 @@
+{
+  "uid": "bc4b10924b0e",
+  "slug": "a-tornado-forming-bc4b10",
+  "version": 2,
+  "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+  },
+  "spock": "0.7.2",
+  "title": "A tornado forming",
+  "question": "Can a tornado form by itself from warm ground, crossing winds and rising air, with nothing scripted to spin it?",
+  "line": "No vortex is programmed into this world. Instead, 1,400 air parcels sit over a sun-warmed plain beneath cooler air aloft while straight-line opposing winds blow along the outer flanks. When surface he",
+  "size": 59034,
+  "cover": true,
+  "minds": 0,
+  "updated": "2026-11-12",
+  "versions": 5
+}
