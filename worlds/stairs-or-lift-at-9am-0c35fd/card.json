@@ -1,19 +1,18 @@
 {
   "uid": "0c35fd53e952",
   "slug": "stairs-or-lift-at-9am-0c35fd",
-  "version": 1,
+  "version": 2,
   "author": {
     "name": "Andrew Herbert",
     "github": "aherbert-pl"
   },
   "spock": "0.7.2",
   "title": "Stairs or lift at 9am",
-  "question": "For a worker going to floor N at 9am, is it quicker to take the stairs or wait for the lift, and from which floor does the lift win?",
+  "question": "At 9am, is it quicker to take the stairs or wait for the lift \u2014 and from which floor does the lift win?",
   "line": "",
-  "size": 31915,
+  "size": 42497,
   "cover": true,
   "minds": 0,
-  "updated": "2026-11-10",
-  "versions": 2,
-  "featured": true
+  "updated": "2026-11-12",
+  "versions": 3
 }
