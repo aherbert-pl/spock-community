@@ -2,6 +2,204 @@
  "shelf": "community",
  "worlds": [
   {
+   "uid": "ce0d1b237121",
+   "slug": "the-learning-juggler-ce0d1b",
+   "version": 2,
+   "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+   },
+   "spock": "0.7.2",
+   "title": "The learning juggler",
+   "question": "Starting from nothing, can a juggler teach itself to keep every ball in the air?",
+   "line": "A two-handed juggler who starts out not knowing how to juggle. All it can do is throw a ball upwards at any angle and speed, choose how long to hold a ball before throwing it, and move its hands. Ball",
+   "size": 216151,
+   "cover": true,
+   "minds": 1,
+   "updated": "2026-11-12",
+   "versions": 21,
+   "download": "https://github.com/aherbert-pl/spock-community/releases/download/worlds/the-learning-juggler-ce0d1b-v2.spock",
+   "opens": 1,
+   "issue": 30,
+   "stars": 0
+  },
+  {
+   "uid": "0c35fd53e952",
+   "slug": "stairs-or-lift-at-9am-0c35fd",
+   "version": 2,
+   "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+   },
+   "spock": "0.7.2",
+   "title": "Stairs or lift at 9am",
+   "question": "At 9am, is it quicker to take the stairs or wait for the lift — and from which floor does the lift win?",
+   "line": "",
+   "size": 42497,
+   "cover": true,
+   "minds": 0,
+   "updated": "2026-11-12",
+   "versions": 3,
+   "download": "https://github.com/aherbert-pl/spock-community/releases/download/worlds/stairs-or-lift-at-9am-0c35fd-v2.spock",
+   "opens": 0,
+   "issue": 53,
+   "stars": 0
+  },
+  {
+   "uid": "01286b5e833c",
+   "slug": "roundabout-or-traffic-lights-01286b",
+   "version": 2,
+   "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+   },
+   "spock": "0.7.2",
+   "title": "Roundabout or traffic lights?",
+   "question": "Does a roundabout move more traffic with less delay than traffic lights, in light, medium and heavy traffic?",
+   "line": "",
+   "size": 42131,
+   "cover": true,
+   "minds": 0,
+   "updated": "2026-11-12",
+   "versions": 2,
+   "download": "https://github.com/aherbert-pl/spock-community/releases/download/worlds/roundabout-or-traffic-lights-01286b-v2.spock",
+   "opens": 0,
+   "issue": 65,
+   "stars": 0
+  },
+  {
+   "uid": "0c917c4f3c7b",
+   "slug": "newton-s-cradle-0c917c",
+   "version": 2,
+   "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+   },
+   "spock": "0.7.2",
+   "title": "Newton's cradle",
+   "question": "Does 'one ball in, one ball out' still hold when the end balls are heavier or lighter than the rest?",
+   "line": "The swinging-balls desk ornament: five polished steel balls, each hanging on a V of two threads from a chrome frame. Choose how it starts: one end ball lifted, both end balls lifted to opposite sides",
+   "size": 133688,
+   "cover": true,
+   "minds": 0,
+   "updated": "2026-11-12",
+   "versions": 25,
+   "download": "https://github.com/aherbert-pl/spock-community/releases/download/worlds/newton-s-cradle-0c917c-v2.spock",
+   "opens": 1,
+   "issue": 25,
+   "stars": 0
+  },
+  {
+   "uid": "5b7ef3946918",
+   "slug": "fairground-claw-ride-5b7ef3",
+   "version": 2,
+   "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+   },
+   "spock": "0.7.2",
+   "title": "Fairground claw ride",
+   "question": "How does unbalanced seating change how fast and wildly the claw spins as it swings?",
+   "line": "",
+   "size": 36950,
+   "cover": true,
+   "minds": 0,
+   "updated": "2026-11-12",
+   "versions": 2,
+   "download": "https://github.com/aherbert-pl/spock-community/releases/download/worlds/fairground-claw-ride-5b7ef3-v2.spock",
+   "opens": 0,
+   "issue": 48,
+   "stars": 0
+  },
+  {
+   "uid": "0cc78ee99f7e",
+   "slug": "earth-s-orbital-neighbourhood-0cc78e",
+   "version": 2,
+   "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+   },
+   "spock": "0.7.2",
+   "title": "Earth's orbital neighbourhood",
+   "question": "Why do some satellites hang still over one place while others race round the Earth?",
+   "line": "A turning Earth with three kinds of satellite, all under Newton's gravity and real values (GM = 3.986e14 m³/s², 6371 km radius). A ring of 12 geostationary satellites (amber) sits 35,793 km up in the",
+   "size": 268335,
+   "cover": true,
+   "minds": 0,
+   "updated": "2026-11-12",
+   "versions": 7,
+   "download": "https://github.com/aherbert-pl/spock-community/releases/download/worlds/earth-s-orbital-neighbourhood-0cc78e-v2.spock",
+   "opens": 2,
+   "issue": 14,
+   "stars": 1
+  },
+  {
+   "uid": "9a3fcd821c86",
+   "slug": "double-pendulum-chaos-or-not-9a3fcd",
+   "version": 2,
+   "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+   },
+   "spock": "0.7.2",
+   "title": "Double pendulum: chaos or not?",
+   "question": "When do nearly identical double pendulums swing in lockstep, and when do tiny starting differences explode into chaos?",
+   "line": "",
+   "size": 32110,
+   "cover": true,
+   "minds": 0,
+   "updated": "2026-11-12",
+   "versions": 2,
+   "download": "https://github.com/aherbert-pl/spock-community/releases/download/worlds/double-pendulum-chaos-or-not-9a3fcd-v2.spock",
+   "opens": 0,
+   "issue": 46,
+   "stars": 0
+  },
+  {
+   "uid": "d336b31b9af4",
+   "slug": "ants-finding-food-with-pheromone-trails-d336b3",
+   "version": 2,
+   "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+   },
+   "spock": "0.7.2",
+   "title": "Ants finding food with pheromone trails",
+   "question": "Does a pheromone trail that fades faster help the colony bring food home sooner, or slow it down?",
+   "line": "A colony of 150 ants on a patch of ground, with the nest in the middle and three food piles at different distances (near, middle, far). Ants wander until one stumbles on food. Then it carries a crumb",
+   "size": 55140,
+   "cover": true,
+   "minds": 0,
+   "updated": "2026-11-12",
+   "versions": 10,
+   "download": "https://github.com/aherbert-pl/spock-community/releases/download/worlds/ants-finding-food-with-pheromone-trails-d336b3-v2.spock",
+   "opens": 1,
+   "issue": 9,
+   "stars": 0
+  },
+  {
+   "uid": "bc4b10924b0e",
+   "slug": "a-tornado-forming-bc4b10",
+   "version": 2,
+   "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+   },
+   "spock": "0.7.2",
+   "title": "A tornado forming",
+   "question": "Can a tornado form by itself from warm ground, crossing winds and rising air, with nothing scripted to spin it?",
+   "line": "No vortex is programmed into this world. Instead, 1,400 air parcels sit over a sun-warmed plain beneath cooler air aloft while straight-line opposing winds blow along the outer flanks. When surface he",
+   "size": 59034,
+   "cover": true,
+   "minds": 0,
+   "updated": "2026-11-12",
+   "versions": 5,
+   "download": "https://github.com/aherbert-pl/spock-community/releases/download/worlds/a-tornado-forming-bc4b10-v2.spock",
+   "opens": 0,
+   "issue": 64,
+   "stars": 0
+  },
+  {
    "uid": "5f973f00847e",
    "slug": "the-thinking-balloon-5f973f",
    "version": 1,
@@ -22,29 +220,6 @@
    "download": "https://github.com/aherbert-pl/spock-community/releases/download/worlds/the-thinking-balloon-5f973f-v1.spock",
    "opens": 0,
    "issue": 49,
-   "stars": 0
-  },
-  {
-   "uid": "0c35fd53e952",
-   "slug": "stairs-or-lift-at-9am-0c35fd",
-   "version": 1,
-   "author": {
-    "name": "Andrew Herbert",
-    "github": "aherbert-pl"
-   },
-   "spock": "0.7.2",
-   "title": "Stairs or lift at 9am",
-   "question": "For a worker going to floor N at 9am, is it quicker to take the stairs or wait for the lift, and from which floor does the lift win?",
-   "line": "",
-   "size": 31915,
-   "cover": true,
-   "minds": 0,
-   "updated": "2026-11-10",
-   "versions": 2,
-   "featured": true,
-   "download": "https://github.com/aherbert-pl/spock-community/releases/download/worlds/stairs-or-lift-at-9am-0c35fd-v1.spock",
-   "opens": 0,
-   "issue": 53,
    "stars": 0
   },
   {
@@ -91,52 +266,6 @@
    "download": "https://github.com/aherbert-pl/spock-community/releases/download/worlds/lismore-in-flood-186dcd-v1.spock",
    "opens": 0,
    "issue": 50,
-   "stars": 0
-  },
-  {
-   "uid": "5b7ef3946918",
-   "slug": "fairground-claw-ride-5b7ef3",
-   "version": 1,
-   "author": {
-    "name": "Andrew Herbert",
-    "github": "aherbert-pl"
-   },
-   "spock": "0.7.2",
-   "title": "Fairground Claw Ride",
-   "question": "How does unbalanced seating change how fast and wildly the claw spins as it swings?",
-   "line": "",
-   "size": 29907,
-   "cover": true,
-   "minds": 0,
-   "updated": "2026-11-10",
-   "versions": 1,
-   "featured": true,
-   "download": "https://github.com/aherbert-pl/spock-community/releases/download/worlds/fairground-claw-ride-5b7ef3-v1.spock",
-   "opens": 0,
-   "issue": 48,
-   "stars": 0
-  },
-  {
-   "uid": "9a3fcd821c86",
-   "slug": "double-pendulum-chaos-or-not-9a3fcd",
-   "version": 1,
-   "author": {
-    "name": "Andrew Herbert",
-    "github": "aherbert-pl"
-   },
-   "spock": "0.7.2",
-   "title": "Double Pendulum: Chaos or Not?",
-   "question": "When do nearly identical double pendulums swing in lockstep, and when do tiny starting differences explode into chaos?",
-   "line": "",
-   "size": 20948,
-   "cover": true,
-   "minds": 0,
-   "updated": "2026-11-10",
-   "versions": 1,
-   "featured": true,
-   "download": "https://github.com/aherbert-pl/spock-community/releases/download/worlds/double-pendulum-chaos-or-not-9a3fcd-v1.spock",
-   "opens": 0,
-   "issue": 46,
    "stars": 0
   },
   {
@@ -274,29 +403,6 @@
    "stars": 0
   },
   {
-   "uid": "ce0d1b237121",
-   "slug": "the-learning-juggler-ce0d1b",
-   "version": 1,
-   "author": {
-    "name": "Andrew Herbert",
-    "github": "aherbert-pl"
-   },
-   "spock": "0.5.1",
-   "title": "The Learning Juggler",
-   "question": "Starting from nothing, can the juggler learn from its drops to keep every ball going within max_tries tries (100 by default)?",
-   "line": "A two-handed juggler who starts out not knowing how to juggle. All it can do is throw a ball upwards at any angle and speed, choose how long to hold a ball before throwing it, and move its hands. Ball",
-   "size": 183061,
-   "cover": true,
-   "minds": 1,
-   "updated": "2026-11-05",
-   "versions": 18,
-   "featured": true,
-   "download": "https://github.com/aherbert-pl/spock-community/releases/download/worlds/the-learning-juggler-ce0d1b-v1.spock",
-   "opens": 1,
-   "issue": 30,
-   "stars": 0
-  },
-  {
    "uid": "755e54111ef5",
    "slug": "the-cobble-clutch-boulevard-755e54",
    "version": 1,
@@ -406,29 +512,6 @@
    "download": "https://github.com/aherbert-pl/spock-community/releases/download/worlds/oil-spill-from-a-broken-pipe-16fb41-v1.spock",
    "opens": 1,
    "issue": 26,
-   "stars": 0
-  },
-  {
-   "uid": "0c917c4f3c7b",
-   "slug": "newton-s-cradle-0c917c",
-   "version": 1,
-   "author": {
-    "name": "Andrew Herbert",
-    "github": "aherbert-pl"
-   },
-   "spock": "0.5.1",
-   "title": "Newton's cradle",
-   "question": "What happens to the cradle's 'one ball in, one ball out' pattern when the end balls are heavier or lighter than the middle ones?",
-   "line": "The swinging-balls desk ornament: five polished steel balls, each hanging on a V of two threads from a chrome frame. Choose how it starts: one end ball lifted, both end balls lifted to opposite sides ",
-   "size": 142661,
-   "cover": true,
-   "minds": 0,
-   "updated": "2026-11-05",
-   "versions": 23,
-   "featured": true,
-   "download": "https://github.com/aherbert-pl/spock-community/releases/download/worlds/newton-s-cradle-0c917c-v1.spock",
-   "opens": 1,
-   "issue": 25,
    "stars": 0
   },
   {
@@ -657,29 +740,6 @@
    "stars": 0
   },
   {
-   "uid": "0cc78ee99f7e",
-   "slug": "earth-s-orbital-neighbourhood-0cc78e",
-   "version": 1,
-   "author": {
-    "name": "Andrew Herbert",
-    "github": "aherbert-pl"
-   },
-   "spock": "0.5.1",
-   "title": "Earth's orbital neighbourhood",
-   "question": "Why do geostationary satellites hang still over one place while the ISS and the communications swarm race round the Earth?",
-   "line": "A turning Earth with three kinds of satellite, all under Newton's gravity and real values (GM = 3.986e14 m³/s², 6371 km radius). A ring of 12 geostationary satellites (amber) sits 35,793 km up in the ",
-   "size": 272081,
-   "cover": true,
-   "minds": 0,
-   "updated": "2026-11-05",
-   "versions": 6,
-   "featured": true,
-   "download": "https://github.com/aherbert-pl/spock-community/releases/download/worlds/earth-s-orbital-neighbourhood-0cc78e-v1.spock",
-   "opens": 2,
-   "issue": 14,
-   "stars": 1
-  },
-  {
    "uid": "48b517688c75",
    "slug": "duck-pond-48b517",
    "version": 1,
@@ -766,29 +826,6 @@
    "download": "https://github.com/aherbert-pl/spock-community/releases/download/worlds/basketball-shooting-practice-a106ea-v1.spock",
    "opens": 1,
    "issue": 10,
-   "stars": 0
-  },
-  {
-   "uid": "d336b31b9af4",
-   "slug": "ants-finding-food-with-pheromone-trails-d336b3",
-   "version": 1,
-   "author": {
-    "name": "Andrew Herbert",
-    "github": "aherbert-pl"
-   },
-   "spock": "0.5.1",
-   "title": "Ants finding food with pheromone trails",
-   "question": "How does the rate at which pheromone evaporates change how quickly the colony brings food home?",
-   "line": "A colony of 150 ants on a patch of ground, with the nest in the middle and three food piles at different distances (near, middle, far). Ants wander until one stumbles on food. Then it carries a crumb ",
-   "size": 51617,
-   "cover": true,
-   "minds": 0,
-   "updated": "2026-11-05",
-   "versions": 9,
-   "featured": true,
-   "download": "https://github.com/aherbert-pl/spock-community/releases/download/worlds/ants-finding-food-with-pheromone-trails-d336b3-v1.spock",
-   "opens": 1,
-   "issue": 9,
    "stars": 0
   },
   {
