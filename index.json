@@ -2,6 +2,138 @@
  "shelf": "community",
  "worlds": [
   {
+   "uid": "3ea1dba1a588",
+   "slug": "seesaw-into-the-cup-3ea1db",
+   "version": 1,
+   "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+   },
+   "spock": "0.7.2",
+   "title": "Seesaw into the cup",
+   "question": "Can two minds, each pressing only its own end, learn together to get the ball into the cup?",
+   "line": "A 4 m plank tilts on a pivot. A ball sits in a cradle at the left end, and a cup stands on the floor 10 m away, past the right end. Two minds sit at the two ends, and each can only push its own end down or pull it up (up to 150 N), now and when it likes. The plank turns under their presses and slams against its stops. The ball rolls, flies and lands, in the cup or not. Each press is off by a couple of percent every try, so luck proves nothing. Watch where the violet marker shows the last landing, and whether the two ends find a way to work together.",
+   "size": 43717,
+   "cover": true,
+   "minds": 2,
+   "updated": "2026-11-25",
+   "versions": 1,
+   "download": "https://github.com/aherbert-pl/spock-community/releases/download/worlds/seesaw-into-the-cup-3ea1db-v1.spock",
+   "opens": 0,
+   "issue": 72,
+   "stars": 0
+  },
+  {
+   "uid": "266bf2eaafd0",
+   "slug": "sand-on-a-vibrating-plate-266bf2",
+   "version": 1,
+   "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+   },
+   "spock": "0.7.2",
+   "title": "Sand on a vibrating plate",
+   "question": "Where does sand gather on a vibrating plate, and how does the pattern change with the tone?",
+   "line": "A 30 cm square steel plate rings in one of its standing-wave modes, with 3000 grains of sand scattered on it. The plate is shaded by how hard each spot moves up and down (bright teal = loud, dark = still). Where it moves hard the grains are thrown about; where it is still — the nodal lines — they stop. Watch the sand draw the plate's hidden pattern, as in Ernst Chladni's experiments of 1787. Change the mode numbers or the mix and the sand walks into a new figure. The plate's shape follows the classic square-plate approximation cos(nπx)cos(mπy) ∓ cos(mπx)cos(nπy); the bouncing of each grain is simplified to random kicks as strong as the plate's motion under it.",
+   "size": 74486,
+   "cover": true,
+   "minds": 0,
+   "updated": "2026-11-25",
+   "versions": 1,
+   "download": "https://github.com/aherbert-pl/spock-community/releases/download/worlds/sand-on-a-vibrating-plate-266bf2-v1.spock",
+   "opens": 0,
+   "issue": 76,
+   "stars": 0
+  },
+  {
+   "uid": "68e3696987c4",
+   "slug": "pumping-a-swing-68e369",
+   "version": 1,
+   "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+   },
+   "spock": "0.7.2",
+   "title": "Pumping a swing",
+   "question": "Can someone learn, by trying, to get a swing higher using only their legs and body?",
+   "line": "A playground swing on 2.5 m ropes with a child on it, and nobody to push. All the rider can do is move their body: kick the legs out and lean back (+1), or tuck the legs and sit forward (−1). That shifts the centre of mass a few centimetres off the line of the ropes, so gravity pulls a little more one way or the other. At the right moments this adds energy to the swing. At the wrong moments it takes energy out. The rider's mind starts knowing nothing. Each try lasts 20 s from a small start, then everything resets. Watch the peak angle per try to see whether it finds a timing that works. A simplified model of seated pumping, which behaves like a driven pendulum (Case & Swanson, Am. J. Phys. 58, 1990; Wirkus, Rand & Ruina, College Math. J. 29, 1998).",
+   "size": 48261,
+   "cover": true,
+   "minds": 1,
+   "updated": "2026-11-25",
+   "versions": 1,
+   "download": "https://github.com/aherbert-pl/spock-community/releases/download/worlds/pumping-a-swing-68e369-v1.spock",
+   "opens": 0,
+   "issue": 77,
+   "stars": 0
+  },
+  {
+   "uid": "b7235d678f2a",
+   "slug": "mexican-wave-b7235d",
+   "version": 1,
+   "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+   },
+   "spock": "0.7.2",
+   "title": "Mexican wave",
+   "question": "How big a group does it take to start a wave that makes it all the way round, and how fast does it travel?",
+   "line": "4,320 fans in an oval stadium bowl, 8 rows deep. No fan plans anything. Each one only watches the people round them (5 seats either way, 2 rows up and down). When enough of those are standing, they jump up after a moment's reaction, stay up about a second, then sit down tired and won't stand again for a few seconds. People on the side the wave comes from count for more, so a wave runs one way: clockwise seen from above. Watch the amber band run round the stands, and see whether it dies. Every lap tires the crowd a little more. Press a button to send a group of fans up, and change the group size to find how many it takes. Neighbourhood rule after Farkas, Helbing & Vicsek, Nature 419, 131 (2002), who measured real waves at about 12 m/s (~20 seats/s), 6–12 m wide, mostly clockwise, usually started by a few dozen people.",
+   "size": 50492,
+   "cover": true,
+   "minds": 0,
+   "updated": "2026-11-25",
+   "versions": 1,
+   "download": "https://github.com/aherbert-pl/spock-community/releases/download/worlds/mexican-wave-b7235d-v1.spock",
+   "opens": 0,
+   "issue": 74,
+   "stars": 0
+  },
+  {
+   "uid": "0643e0a76a5c",
+   "slug": "magnets-in-zero-gravity-0643e0",
+   "version": 1,
+   "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+   },
+   "spock": "0.7.2",
+   "title": "Magnets in zero gravity",
+   "question": "What shapes do randomly scattered magnets make when nothing but their own pull acts on them?",
+   "line": "Thirty 5 mm ferrite ball magnets start at random places, pointing random ways, in a 15 cm box with no gravity. Each ball is a perfect magnetic dipole: it pulls, pushes and twists every other one with the real dipole law, which falls off as 1/r⁴. Teal is the north half and amber the south. Watch them swing round, snap together nose to tail and grow into chains, rings and clumps. It plays in slow motion (¼ speed), because real magnets snap together in a blink. Turn up the strength toward neodymium and they snap even harder.",
+   "size": 43263,
+   "cover": true,
+   "minds": 0,
+   "updated": "2026-11-25",
+   "versions": 1,
+   "download": "https://github.com/aherbert-pl/spock-community/releases/download/worlds/magnets-in-zero-gravity-0643e0-v1.spock",
+   "opens": 0,
+   "issue": 73,
+   "stars": 0
+  },
+  {
+   "uid": "c8306205cab4",
+   "slug": "a380-sydney-singapore-how-fast-c83062",
+   "version": 1,
+   "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+   },
+   "spock": "0.7.2",
+   "title": "A380: Sydney → Singapore, how fast?",
+   "question": "Which cruise Mach uses the least fuel from Sydney to Singapore, and which is cheapest once time costs money?",
+   "line": "Seven Airbus A380s take off together from Sydney and fly the great circle to Singapore (about 6,290 km), each holding its own cruise Mach from 0.70 to 0.88 at one flight level. Each one burns fuel to match its drag, and it gets lighter as it burns, so its drag keeps changing. Flying slowly needs a high lift coefficient, which brings large induced drag. Flying fast runs into wave drag past the drag-rise Mach. Watch the fuel-per-km chart and the projected trip fuel: the dip between the two shows the most fuel-efficient speed. The trip cost adds an hourly time cost (crew, maintenance, lease), which pushes the cheapest speed above the most fuel-efficient one. The aerodynamics are textbook estimates (drag polar plus a Korn–Lock wave-drag rise), not Airbus performance data.",
+   "size": 43091,
+   "cover": true,
+   "minds": 0,
+   "updated": "2026-11-25",
+   "versions": 1,
+   "download": "https://github.com/aherbert-pl/spock-community/releases/download/worlds/a380-sydney-singapore-how-fast-c83062-v1.spock",
+   "opens": 0,
+   "issue": 75,
+   "stars": 0
+  },
+  {
    "uid": "ce0d1b237121",
    "slug": "the-learning-juggler-ce0d1b",
    "version": 2,
