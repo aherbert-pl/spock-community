@@ -1,0 +1,18 @@
+{
+  "uid": "b7235d678f2a",
+  "slug": "mexican-wave-b7235d",
+  "version": 1,
+  "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+  },
+  "spock": "0.7.2",
+  "title": "Mexican wave",
+  "question": "How big a group does it take to start a wave that makes it all the way round, and how fast does it travel?",
+  "line": "4,320 fans in an oval stadium bowl, 8 rows deep. No fan plans anything. Each one only watches the people round them (5 seats either way, 2 rows up and down). When enough of those are standing, they jump up after a moment's reaction, stay up about a second, then sit down tired and won't stand again for a few seconds. People on the side the wave comes from count for more, so a wave runs one way: clockwise seen from above. Watch the amber band run round the stands, and see whether it dies. Every lap tires the crowd a little more. Press a button to send a group of fans up, and change the group size to find how many it takes. Neighbourhood rule after Farkas, Helbing & Vicsek, Nature 419, 131 (2002), who measured real waves at about 12 m/s (~20 seats/s), 6\u201312 m wide, mostly clockwise, usually started by a few dozen people.",
+  "size": 50492,
+  "cover": true,
+  "minds": 0,
+  "updated": "2026-11-25",
+  "versions": 1
+}
