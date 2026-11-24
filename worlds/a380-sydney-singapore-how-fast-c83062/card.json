@@ -1,0 +1,18 @@
+{
+  "uid": "c8306205cab4",
+  "slug": "a380-sydney-singapore-how-fast-c83062",
+  "version": 1,
+  "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+  },
+  "spock": "0.7.2",
+  "title": "A380: Sydney \u2192 Singapore, how fast?",
+  "question": "Which cruise Mach uses the least fuel from Sydney to Singapore, and which is cheapest once time costs money?",
+  "line": "Seven Airbus A380s take off together from Sydney and fly the great circle to Singapore (about 6,290 km), each holding its own cruise Mach from 0.70 to 0.88 at one flight level. Each one burns fuel to match its drag, and it gets lighter as it burns, so its drag keeps changing. Flying slowly needs a high lift coefficient, which brings large induced drag. Flying fast runs into wave drag past the drag-rise Mach. Watch the fuel-per-km chart and the projected trip fuel: the dip between the two shows the most fuel-efficient speed. The trip cost adds an hourly time cost (crew, maintenance, lease), which pushes the cheapest speed above the most fuel-efficient one. The aerodynamics are textbook estimates (drag polar plus a Korn\u2013Lock wave-drag rise), not Airbus performance data.",
+  "size": 43091,
+  "cover": true,
+  "minds": 0,
+  "updated": "2026-11-25",
+  "versions": 1
+}
