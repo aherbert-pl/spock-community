@@ -1,0 +1,18 @@
+{
+  "uid": "3ea1dba1a588",
+  "slug": "seesaw-into-the-cup-3ea1db",
+  "version": 1,
+  "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+  },
+  "spock": "0.7.2",
+  "title": "Seesaw into the cup",
+  "question": "Can two minds, each pressing only its own end, learn together to get the ball into the cup?",
+  "line": "A 4 m plank tilts on a pivot. A ball sits in a cradle at the left end, and a cup stands on the floor 10 m away, past the right end. Two minds sit at the two ends, and each can only push its own end down or pull it up (up to 150 N), now and when it likes. The plank turns under their presses and slams against its stops. The ball rolls, flies and lands, in the cup or not. Each press is off by a couple of percent every try, so luck proves nothing. Watch where the violet marker shows the last landing, and whether the two ends find a way to work together.",
+  "size": 43717,
+  "cover": true,
+  "minds": 2,
+  "updated": "2026-11-25",
+  "versions": 1
+}
