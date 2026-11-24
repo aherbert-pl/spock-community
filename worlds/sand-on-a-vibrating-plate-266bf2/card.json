@@ -1,0 +1,18 @@
+{
+  "uid": "266bf2eaafd0",
+  "slug": "sand-on-a-vibrating-plate-266bf2",
+  "version": 1,
+  "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+  },
+  "spock": "0.7.2",
+  "title": "Sand on a vibrating plate",
+  "question": "Where does sand gather on a vibrating plate, and how does the pattern change with the tone?",
+  "line": "A 30 cm square steel plate rings in one of its standing-wave modes, with 3000 grains of sand scattered on it. The plate is shaded by how hard each spot moves up and down (bright teal = loud, dark = still). Where it moves hard the grains are thrown about; where it is still \u2014 the nodal lines \u2014 they stop. Watch the sand draw the plate's hidden pattern, as in Ernst Chladni's experiments of 1787. Change the mode numbers or the mix and the sand walks into a new figure. The plate's shape follows the classic square-plate approximation cos(n\u03c0x)cos(m\u03c0y) \u2213 cos(m\u03c0x)cos(n\u03c0y); the bouncing of each grain is simplified to random kicks as strong as the plate's motion under it.",
+  "size": 74486,
+  "cover": true,
+  "minds": 0,
+  "updated": "2026-11-25",
+  "versions": 1
+}
