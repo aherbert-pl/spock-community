@@ -1,0 +1,18 @@
+{
+  "uid": "0643e0a76a5c",
+  "slug": "magnets-in-zero-gravity-0643e0",
+  "version": 1,
+  "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+  },
+  "spock": "0.7.2",
+  "title": "Magnets in zero gravity",
+  "question": "What shapes do randomly scattered magnets make when nothing but their own pull acts on them?",
+  "line": "Thirty 5 mm ferrite ball magnets start at random places, pointing random ways, in a 15 cm box with no gravity. Each ball is a perfect magnetic dipole: it pulls, pushes and twists every other one with the real dipole law, which falls off as 1/r\u2074. Teal is the north half and amber the south. Watch them swing round, snap together nose to tail and grow into chains, rings and clumps. It plays in slow motion (\u00bc speed), because real magnets snap together in a blink. Turn up the strength toward neodymium and they snap even harder.",
+  "size": 43263,
+  "cover": true,
+  "minds": 0,
+  "updated": "2026-11-25",
+  "versions": 1
+}
