@@ -1,0 +1,18 @@
+{
+  "uid": "68e3696987c4",
+  "slug": "pumping-a-swing-68e369",
+  "version": 1,
+  "author": {
+    "name": "Andrew Herbert",
+    "github": "aherbert-pl"
+  },
+  "spock": "0.7.2",
+  "title": "Pumping a swing",
+  "question": "Can someone learn, by trying, to get a swing higher using only their legs and body?",
+  "line": "A playground swing on 2.5 m ropes with a child on it, and nobody to push. All the rider can do is move their body: kick the legs out and lean back (+1), or tuck the legs and sit forward (\u22121). That shifts the centre of mass a few centimetres off the line of the ropes, so gravity pulls a little more one way or the other. At the right moments this adds energy to the swing. At the wrong moments it takes energy out. The rider's mind starts knowing nothing. Each try lasts 20 s from a small start, then everything resets. Watch the peak angle per try to see whether it finds a timing that works. A simplified model of seated pumping, which behaves like a driven pendulum (Case & Swanson, Am. J. Phys. 58, 1990; Wirkus, Rand & Ruina, College Math. J. 29, 1998).",
+  "size": 48261,
+  "cover": true,
+  "minds": 1,
+  "updated": "2026-11-25",
+  "versions": 1
+}
